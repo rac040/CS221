@@ -17,8 +17,8 @@ from shutil import copyfile
 from collections import Counter
 
 #baseFolder = "C:\\Users\\astro\\Desktop\\sentiment work\\Sun Times Reviews\\Roeper\\"
-author = "\\Authors\\Matt Zoller Seitz\\"
-baseFolder = "C:\\Users\\astro\\Desktop\\sentiment work\\Roger Ebert Reviews\\" + author
+#author = "\\Authors\\Matt Zoller Seitz\\"
+baseFolder = "C:\\Users\\astro\\Desktop\\sentiment work\\CS221\\Roger Ebert Reviews\\"
 #baseFolder = "C:\\Users\\astro\\Desktop\\sentiment work\\Test\\"
 #baseFolder = "C:\\Users\\astro\\Desktop\\sentiment work\\Roger Ebert Reviews\\Authors\\Matt Zoller Seitz\\"
 global all_trans_1_dicts
@@ -36,12 +36,15 @@ global priors
 global boundaries
 global totalFiles
 
+global splits_equal_prob
+global split_simple_occur_prob_prob
+
 score_dict = {}
 sent_dict = {}
 priors = {}
 
 numSplits = 2
-totalScores = 9
+totalScores = 8
 scoreIncrements = 0.5
 splitSize = totalScores / numSplits
 FULL_PRINT = False
@@ -64,20 +67,16 @@ def make_bound_list():
         boundaries = [(0.0, 0.5), (1.0, 1.5), (2.0, 2.5), (3.0, 3.5),
                       (4.0, 4.0)]
     elif numSplits == 6:
-        boundaries = [(0.0, 0.0), (0.5, 1.0), (1.5, 2.0), (2.5, 3.0),
+        boundaries = [(0.5, 1.0), (1.5, 2.0), (2.5, 2.5), (3.0, 3.0),
                       (3.5, 3.5), (4.0, 4.0)]
     elif numSplits == 7:
-        boundaries = [(0.0, 0.0), (0.5, 0.5), (1.0, 1.5), (2.0, 2.5),
+        boundaries = [ (0.5, 0.5), (1.0, 1.5), (2.0, 2.0), (2.5, 2.5),
                       (3.0, 3.0), (3.5, 3.5), (4.0, 4.0)]
     elif numSplits == 8:
-        boundaries = [(0.0, 0.0), (0.5, 0.5), (1.0, 1.0), (1.5, 1.5),
-                      (2.0, 2.5), (3.0, 3.0), (3.5, 3.5), (4.0, 4.0)]
-    elif numSplits == 9:
-        boundaries = [(0.0, 0.0), (0.5, 0.5), (1.0, 1.0), (1.5, 1.5),
-                      (2.0, 2.0), (2.5, 2.5), (3.0, 3.0), (3.5, 3.5),
-                      (4.0, 4.0)]
+        boundaries = [(0.5, 0.5), (1.0, 1.0), (1.5, 1.5), (2.0, 2.0),
+                      (2.5, 2.5), (3.0, 3.0), (3.5, 3.5), (4.0, 4.0)]
 
-def run_test(wfile = None):
+def run_test(wfile_1 = None, wfile_2 = None, wfile_3 = None):
     
     print("Starting Training....")
     make_bound_list()
@@ -91,11 +90,38 @@ def run_test(wfile = None):
     off_by_list = []
 
     global boundaries
+    global totalFiles
+    global splits_equal_prob
+    global split_simple_occur_prob_prob
+
+    splits_equal_prob = 1 / numSplits
+    split_simple_occur_prob = dict.fromkeys(range(numSplits), 0)
+
+    for t in score_dict:
+        testScore = score_dict[t]
+        #Get current split of test film
+        curSplit = -1
+        for split in range(len(boundaries)):
+            start = (boundaries[split])[0]
+            end = (boundaries[split])[1]
+            
+            if testScore >= start and testScore <= end:
+                curSplit = split
+
+        split_simple_occur_prob[curSplit] = split_simple_occur_prob[curSplit] + 1
+
+    for split in split_simple_occur_prob:
+        split_simple_occur_prob[split] = (split_simple_occur_prob[split] - 1) / (totalFiles - 1)
 
     print("Window:",window)
     print("NumSplits:",numSplits)
     print("Boundaries:", boundaries)
+    print("Equal Split Prob:", str(splits_equal_prob  * 100))
+    print("Simple Split Occur Probabilities:", str(split_simple_occur_prob))
     print()
+
+    splits_equal_prob_count = 0
+    score_occur_prob_count = 0
 
     #print(score_dict)
     for title in score_dict:
@@ -119,6 +145,8 @@ def run_test(wfile = None):
             if testScore >= start and testScore <= end:
                 curSplit = split
 
+        score_occur_prob = split_simple_occur_prob[curSplit]
+
         #remove occurences of test film from training
         addRemoveTestPairs(test_pairs, curSplit, isAddBack=False)
 
@@ -137,10 +165,24 @@ def run_test(wfile = None):
             #All values should be the same (Because not a HMM)
             pp = ppost[0]
 
+            #Get prob of correct split
+            corr_split_prob = pp[curSplit]
+
             #Get sorted list of probs
             prob_list = []
+            allZero = True
             for s in pp:
+                if(pp[s] > 0.0):
+                    allZero = False
+                    
                 prob_list.append((pp[s], s))
+
+            if allZero:
+                prob_list = []
+                
+                for s in split_simple_occur_prob:
+                    prob_list.append((split_simple_occur_prob[s], s))
+                    
             prob_list.sort(reverse=True)
 
             #Pred window by split
@@ -149,6 +191,12 @@ def run_test(wfile = None):
                 split_list.append(i[1])
 
             highest_prob_split = (prob_list[0])[1]
+
+            #HYPOTHESIS TEST
+            if(corr_split_prob > splits_equal_prob):
+                splits_equal_prob_count = splits_equal_prob_count + 1
+            if(corr_split_prob > score_occur_prob):
+                score_occur_prob_count = score_occur_prob_count + 1
 
             if(FULL_PRINT):
                 print("Movie:", testFilm)
@@ -163,6 +211,8 @@ def run_test(wfile = None):
                 
                 if(FULL_PRINT):
                     print("CORRECT")
+
+
             else:
                 total_wrong = total_wrong + 1
 
@@ -188,14 +238,23 @@ def run_test(wfile = None):
     print("\tTotal Correct:", total_correct)
     print("\tTotal Incorrect:", total_wrong)
     print("\tPercent Correct:", (total_correct / total_pred) * 100, "%")
-
-    if(wfile != None):
-        wfile.write(str((total_correct / total_pred) * 100) + ",")
     
     print("Off By AVG:", (off_by / total_pred) * 100, "%")
     print("Off By MEDIAN:", median * 100, "%")
 
-    print("\n",all_files)
+    print("splits_equal_prob_count:",
+          (splits_equal_prob_count / total_pred) * 100, "%")
+    print("score_occur_prob_count:",
+          (score_occur_prob_count / total_pred) * 100, "%")
+
+    if(wfile_1 != None):
+        wfile_1.write(str((total_correct / total_pred) * 100) + ",")
+    if(wfile_2 != None):
+        wfile_2.write(str((splits_equal_prob_count / total_pred) * 100) + ",")
+    if(wfile_3 != None):
+        wfile_3.write(str((score_occur_prob_count / total_pred) * 100) + ",")
+
+    print("\n",all_files, "\n")
 
     #print(all_trans_3_dicts)
     #print("Files1:", files1)
@@ -683,28 +742,50 @@ def full_test_run():
 
     for gram in n_grams:
         prob_comp = gram
-        resultsName = baseFolder + "results_" + str(prob_comp) + "gram.csv"
-        wfile = open(resultsName, "w")
 
-        wfile.write(",Win1,Win2,Win3,Win4,Win5,Win6,Win7,Win8,Win9\n")
+        resultsFolder = baseFolder + "Results\\"
+        if not os.path.exists(resultsFolder):
+            os.makedirs(resultsFolder)
 
-        for numS in range(1, 10):
+        hyp_folder = resultsFolder + "H Tests\\"
+        if not os.path.exists(hyp_folder):
+            os.makedirs(hyp_folder)          
+        
+        resultsName1 = resultsFolder + "results_" + str(prob_comp) + "gram.csv"
+        resultsName2 = hyp_folder + "h_results_" + str(prob_comp) + "_equal_prob.csv"
+        resultsName3 = hyp_folder + "h_results_" + str(prob_comp) + "_occur_prob.csv"
+        
+        wfile_1 = open(resultsName1, "w")
+        wfile_2 = open(resultsName2, "w")
+        wfile_3 = open(resultsName3, "w")
+
+        wfile_1.write(",Win1,Win2,Win3,Win4,Win5,Win6,Win7,Win8,Win9\n")
+        wfile_2.write(",Win1,Win2,Win3,Win4,Win5,Win6,Win7,Win8,Win9\n")
+        wfile_3.write(",Win1,Win2,Win3,Win4,Win5,Win6,Win7,Win8,Win9\n")
+
+        for numS in range(1, 9):
             numSplits = numS
             splitSize = totalScores / numSplits
             boundaries = []
-            wfile.write("Split " + str(numSplits) + ",")
+            wfile_1.write("Split " + str(numSplits) + ",")
+            wfile_2.write("Split " + str(numSplits) + ",")
+            wfile_3.write("Split " + str(numSplits) + ",")
             for w in  range(1,numSplits):
                 window = w
-                run_test(wfile)
+                run_test(wfile_1, wfile_2, wfile_3)
 
             for x in range(10 - numSplits):
-                wfile.write(str(100) + ",")
+                wfile_1.write(str(100) + ",")
                 
-            wfile.write("\n")
+            wfile_1.write("\n")
+            wfile_2.write("\n")
+            wfile_3.write("\n")
 
             print("\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n")
 
-        wfile.close()
+        wfile_1.close()
+        wfile_2.close()
+        wfile_3.close()
 
 
 full_test_run()
