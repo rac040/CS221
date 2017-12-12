@@ -1,0 +1,178 @@
+Stellaris last year, I found myself asking if, in an already crowded category, we really needed another space strategy game.
+  Negative
+Now, after spending more than a week with the final product I have my answer.
+  Neutral
+No, we dont need another space strategy game.
+  Neutral
+Not now, at least.
+  Neutral
+What we need is a slightly better Stellaris.
+  Positive
+Its a fantastic platform, a capable, flexible sandbox that's customizable inside and out.
+  Positive
+But as technically competent as it is, some of its key systems are frustratingly incomplete, and the game is lacking in personality.
+  Negative
+Stellaris is a grand strategy title from the leading developer in the genre.
+  Positive
+Set in a single, two-dimensional galaxy thats randomly generated at the beginning of every game, it pits players against a dozen or more AI-controlled factions.
+  Negative
+The presentation of the three-dimensional objects on the map is gorgeous, with a great variety of gem-like worlds worlds that you can observe from every angle.
+  Very positive
+After a few post-release hotfixes, I'm happy to say that Stellaris runs smoothly at high settings on my mid-tier Windows PC.
+  Negative
+In fact, it's one of the most elegant and attractive strategy games I've ever played.
+  Very positive
+Unlike other Paradox titles, Stellaris is a x game, which stands for explore, expand, exploit and exterminate.
+  Negative
+Players begin on a single planet and are tasked with discovering and conquering the entire galaxy.
+  Positive
+It's a pausable, real-time strategy game where campaigns often run past  hours in length.
+  Negative
+From the very start, Stellaris overwhelms you with options.
+  Positive
+The empire creation system allows players to select from mammalian, reptilian and avian species.
+  Neutral
+There are even spider-like creatures, hard-shelled mollusks and a race of sentient fungi.
+  Negative
+Each empire can select from a small assortment of positive and negative traits that will, for instance, boost their engineering talent or render them physically repulsive.
+  Negative
+You can even customize an empire's attitude toward other races and ideologies, opening up avenues for unique and challenging political structures within your empire.
+  Negative
+Would you like to play as a race of bird-like creatures who can only colonize dry, rocky desert worlds and prefer a collectivist society that worships technology?
+  Negative
+Then maybe try your hand at a ruling science directorate, an oligarchy of eggheads elected every  years.
+  Negative
+Perhaps next time around you'd like to conjure up a society of floating, spore-like creatures who are fanatic, warlike xenophobes.
+  Negative
+If that's the case, you can explore the challenges of managing a military republic with a five-year election cycle.
+  Positive
+For completionists looking to experience everything the game has to offer, expect many challenging campaign playthroughs.
+  Neutral
+Once you've winnowed down your options, Stellaris uses each of these traits to spin a unique tale for you and your society.
+  Positive
+The way your people react to discoveries, events and other races is tailored to choices that you've made in the pre-game setup.
+  Negative
+The result is an experience that encourages role-playing on a grand scale and rewards players with early-game technologies and buffs for leaning in to those roles.
+  Very positive
+In that early game, Stellaris excels at making exploration fun.
+  Positive
+As your science vessels go off in search of new worlds, random events and encounters crop up.
+  Negative
+It feels very much like best episodes of Star Trek are playing out in miniature while you do the heavy lifting of managing your empire.
+  Positive
+Each science vessel requires a scientist to captain it.
+  Negative
+In Stellaris scientists are very much leaders, on par with presidents, planetary governors, admirals and generals all of which you can recruit over time.
+  Negative
+As the years go by, many of your leaders will come and go.
+  Positive
+Some will die of old age and others  like those on your science vessels  will meet a grisly fate among the stars.
+  Negative
+But aside from a few buffs to your stats, these individuals don't have much of a personality.
+  Negative
+Neither do the other races in the game.
+  Neutral
+Aside from a few recycled one-liners, conversing with other empires is one of the least interesting parts of Stellaris.
+  Negative
+Diplomacy, for all of Stellaris claims of background complexity and ever-evolving allegiances, has been a very binary affair in my experience.
+  Negative
+Either an alien race loves you or hates you, and it seems to go on doing that one thing forever.
+  Neutral
+It's hard for me to tell if I'm doing diplomacy "right" or "wrong" because theres rarely any feedback on what other empires want in exchange for important bargaining chips like border agreements and technology.
+  Negative
+Its a bit like playing go fish, hoping to eventually stumble upon the one card the competition is missing from their hand.
+  Negative
+Since making friends is sometimes tedious in Stellaris, its often more expedient to just declare war and take what you want.
+  Negative
+As far as combat goes, Stellaris is pretty light on tactical complexity.
+  Positive
+Battles happen automatically once two enemy fleets are in range and end when one of them retreats or is destroyed.
+  Negative
+With a myriad of hull options and weapons systems on offer, ship building seems nuanced, but Stellaris makes almost no effort to explain this complicated process.
+  Negative
+Without solid guidance, my rule of thumb has been to crank up the damage as high as it will go and charge into battle.
+  Negative
+Perhaps with time, trial and error someone smarter than me will begin to make sense of it all.
+  Negative
+At least battles are exciting to look at.
+  Positive
+Missiles and lasers arc through space, ships wheel and circle one another as drop pods dart toward the surface in the final assault on populated worlds.
+  Negative
+But it's just for show.
+  Neutral
+Rarely, if ever, did I feel like I could do anything to change the outcome of an engagement other than run away.
+  Negative
+In Stellaris, the thrill of battle is all about the careful use of maneuver, and not every empire moves the same way.
+  Positive
+Each begins the game with one of three different methods of travel; either slow and steady warp drives, the ability to use a limited number of super-fast hyperlanes, or the power to travel through wormholes.
+  Negative
+Its these methods of travel, more than anything else, that give the various factions their personalities.
+  Negative
+When battling an empire that relies on warp drives, an empire with wormhole travel can feint an assault at one system to lure the enemy fleet in before instantly jumping out to launch the real attack at an undefended location.
+  Negative
+At the same time, once a wormhole generator is discovered it becomes a prime target for attack, as its destruction closes off access to entire sections of the map.
+  Negative
+In my experience, the AI has been flexible enough to do all of these things and more.
+  Positive
+I found great fun in seeing my fleets dash in just in time to thwart an enemy counterattack, goading the AI into attacking me at the place of my choosing and using my drive technologies to gain the best advantage.
+  Negative
+In the end, the decision to engage in battle at all is of absolute importance.
+  Negative
+I had to plan, not just for combat itself, but for the logistics of supporting that war effort.
+  Negative
+Outside of open war, the day-to-day management of an empire in Stellaris is straightforward thanks to a unique sector system.
+  Positive
+Each empire has a limit on the number of core worlds that its government can effectively support.
+  Negative
+For most government types that's around five.
+  Neutral
+Beyond that number, you must assign worlds to discrete sectors.
+  Negative
+These sectors are semi-autonomous regions and each can be given a focus, like industry or military, that will contribute research and materials to the greater empire.
+  Negative
+There's one part of Stellaris that I was extremely excited for but haven't had the opportunity to properly test: the epic multiplayer mode.
+  Negative
+What do I mean by epic?
+  Neutral
+Well, it supports up to  players in pausable real-time.
+  Negative
+Taking into account that a single-player campaign could last  hours, its a mode that is functionally impractical to play in one sitting.
+  Negative
+To do it right Id want to get everyone together, in the same space to hash out diplomacy face-to-face, for multiple days.
+  Negative
+Outside of a sponsored press junket  which Polygon declined to attend  its unlikely that Ill ever play the game in this way.
+  Negative
+But knowing its possible makes the grognard inside me smile.
+  Positive
+All I can say is that the multiplayer systems technically work, and I've been able to both host and connect to several online games.
+  Very positive
+Maybe for my next vacation Ill play multiplayer Stellaris instead.
+  Negative
+Sectors are not without limit, however.
+  Negative
+Each one is purchased from a pool of points called influence, which players are fed a slow drip of over the course of the game.
+  Negative
+These points are a clever way to pace gameplay, with the clear goal of preventing players from tinkering ad nauseum with the inner working of their empire to minmax their way to victory.
+  Positive
+However, influence is also used to purchase things like leaders, edicts and outposts.
+  Neutral
+That means its possible to have science vessels idled and the construction of military bases delayed for decades while you wait to save up enough points.
+  Neutral
+It almost feels like the game is in need of another key resource so that the purchase of policy changes can be kept separate from hiring on leaders and building physical infrastructure.
+  Negative
+In the short term, perhaps thats something that Stellaris community can build into the game themselves.
+  Positive
+Just before launch, Paradox made the bold promise that it will be one of the most moddable games in the company's history.
+  Positive
+There's already talk of a proper Star Trek mod, and you can imagine any number of popular themes being applied to the game in the years to come.
+  Positive
+But what I'm most hoping for are official, bolt-on replacements for systems like diplomacy and ship building, which just arent quite as polished as Id like to see at release.
+  Negative
+Paradox has proven that it is willing to work on long timelines, and has a history of supporting its games years after launch with substantive upgrades.
+  Positive
+I expect that, three years from now, Stellaris will be a much improved experience.
+  Positive
+As far as Paradox has come from its roots in historical gaming, it needs to go just a little bit further to make this futuristic departure truly great.
+  Negative
+here.
+  Neutral

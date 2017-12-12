@@ -1,0 +1,158 @@
+The town of Hunrath is displaced in time and space, a jumble of both the old and the new as well as the familiar and the exotic.
+  Positive
+Obduction is that kind of game as well.
+  Positive
+Obduction is the first adventure puzzle game from developer Cyan, the creators of Myst, since that franchise wound down in  with Myst : End of Ages.
+  Negative
+That pedigree is apparent from the bottom up, from alternately elegant and infuriating puzzles to vistas that provoke genuine surprise and wonder.
+  Positive
+Cyans new game isn't like any of the recent string of walkingthinking games.
+  Negative
+Obduction doesnt try to approach puzzling from a specific logical angle, like The Witness, nor does it rely on character and dialogue to pull the player along like Firewatch.
+  Negative
+Instead, its very deliberately bringing back the rhythm and logic of how Cyan used to make adventure titles in the s and early s. Beating the game is unfolding the origami, seeing how a flat sheet of paper can eventually become a delicate crane and back again.
+  Negative
+Cyans games offer an environment that appears limited at first  an island in Myst, a sphere of Arizona desert in Obduction  only to then perform the level design equivalent of origami.
+  Neutral
+A linear path from entrance to exit folds inward in ways that are intricate, compact and mystifying.
+  Positive
+Then, one fold at a time, the strange and beautiful shape is revealed to be a straightforward sheet of paper as the player works backward through it.
+  Neutral
+When I first arrived in the impossible time-jumbled desert of Hunrath, nothing made sense.
+  Negative
+It was impenetrably surreal; it didnt seem like there could be any way the individual pieces of it could make sense, let alone tie together into a cohesive whole.
+  Negative
+Yet over - hours, I came to know every inch of the place, and more, every reason.
+  Negative
+"Everything is interconnected," a helpful voice advises early on in the journey, which is both the guiding principle of Obductions puzzle logic and the genius of its puzzle-box level design.
+  Negative
+Obduction gives an impression of nonlinear progression, and there are a couple of times where youll juggle tasks, but the puzzles are so closely interlocked that theres ultimately only one linear path from start to finish.
+  Negative
+Removing one obstacle sheds light on one that seemed unsolvable earlier.
+  Negative
+Progressing normally through one map will alter another in subtle ways.
+  Negative
+The most difficult puzzles in the game ask you to not only consider what you see in front of you, but how it would appear in different worlds entirely.
+  Negative
+To say more would spoil the fun.
+  Negative
+Obduction revels in obscurity the way Myst revels in mystery.
+  Neutral
+The way another game might offer loot or experience progression, this game rewards with understanding and sudden "aha!"
+  Positive
+moments.
+  Positive
+Almost all puzzles begin with frustration.
+  Negative
+You tinker with a bizarre-looking contraption, flipping some switches and toggling some flaps.
+  Negative
+Insert Tab A into Slot E, charge the crystal assembly and tighten the sprocket on the geegaw  all without having a single goddamned idea what youre laboring at.
+  Negative
+But then a clank sounds from deep in the machine, the sprocket reaches the appropriate tension, and the infuriatingly vague thing makes perfect sense all of a sudden.
+  Negative
+After I solve a Cyan puzzle, Ive acquired a new expertise.
+  Negative
+"Oh, yeah," Ill say, chewing a toothpick and leaning against a wall, "Ya just gotta make sure the interdimensional travel lugnut is gapped proper.
+  Negative
+Not everybody knows that."
+  Neutral
+Its that fundamental mechanical logic that makes Obduction stand out among the new-school puzzlers.
+  Negative
+As Obduction opens, the puzzles use mostly human technology, and solving them requires logical assumptions one can make about human-crafted objects.
+  Negative
+If its electric, it probably has switches and needs a generator.
+  Negative
+If theres a gate, theres a mechanism to open it.
+  Positive
+Every lock has a key.
+  Neutral
+The right-facing arrow on the cassette player means play.
+  Neutral
+Thats not to say things are normal; the introduction to Hunrath is a white southwestern house with alien spires towering behind it.
+  Negative
+You are surrounded by the extreme and exotic, and the familiar is all shuffled around.
+  Positive
+By blending old and new technology, Obduction keeps the focus on how that tech is being used contextually.
+  Positive
+When I finally came across something genuinely alien, I ended up approaching it from the same perspective of environmental context.
+  Positive
+That exoticism drips in, as Hunraths original configurations become more and more familiar.
+  Negative
+As soon as I felt like Id gotten my feet under me, something wholly new and unexpected was introduced.
+  Positive
+Something as small as a new puzzle that opens into a major consequence, or something as big as a massive change in the environment that has cascading effects on which parts of the map are available.
+  Negative
+Progression in Obduction was mostly a matter of cataloging the environment for myself, sifting through the pieces, until two and two finally came together.
+  Negative
+Reviewing Obduction reminded me that puzzle adventure games are capable of producing a kind of satisfaction of play thats distinct from games that reward repetition and systemic mastery.
+  Negative
+A puzzle game like this has no difficulty settings  you either get what you were given the clues to get, or you keep pondering it until you do.
+  Negative
+Each puzzle has a thread of thematic or mechanical logic that connects it to previous ones, but theyre all handcrafted and unique.
+  Positive
+With Obduction, I understood the logic of the place instead of just the methodology of the puzzles.
+  Negative
+And ultimately, that felt more satisfying and less abstract than many of the games modern contemporaries.
+  Positive
+I hadnt just learned how to solve a certain type of artificial puzzle really well; I saw my understanding of a truly weird and wonderful place go from slack-jawed confusion to loving familiarity.
+  Very positive
+Theres a story, theres a style, theres a voice behind the art and construction of Obduction thats timeless and vibrant.
+  Positive
+Playing the game becomes a dialogue between player and creator, where success let me admire both for their mutual cleverness.
+  Positive
+One of the compelling things about Myst was that it was kind of a metaphor for game development.
+  Positive
+Theres a language, a complex and specific one, that you can use to write whole worlds into being if you have the correct books and the correct inks.
+  Positive
+If the worlds dont operate on a consistent internal logic, they collapse.
+  Negative
+Obduction ditches the world-writing, but theres definitely an element of meta-commentary in the visual aesthetic.
+  Negative
+Obductions world is a complete jumble of past, present and future.
+  Negative
+Yet it all comes together in a way thats human and comfortable once the inherent strangeness gets some context.
+  Positive
+So too does the design, which makes allowances to an anachronism particular to Cyans heritage.
+  Negative
+Made with Unreal Engine , Obduction is explorable in real-time D. Every frame is more lush and sharp than anything in Myst or Riven.
+  Positive
+Yet you can play it in a mode that shifts you from slide to slide, where the experience of the game from a logical and navigational perspective is no different from s Myst.
+  Negative
+The backgrounds and textures are incredibly sharp and detailed, with elements like fog and light rendered dynamically, though Cyan chose to use live-action footage layered into the D for its actors, like way back in the day.
+  Very positive
+But Cyans slavishness to old habits doesnt always yield satisfying results.
+  Positive
+Without going into spoiler territory, one of the last puzzles in the game took me  minutes and  level transitions to figure out.
+  Negative
+I havent sincerely loathed a section of a game so much in quite a while.
+  Positive
+And it was all the fault of taking Cyans signature contraption-heavy puzzle design to its, well, logical extremes.
+  Negative
+It was totally in keeping with the style of puzzle up to that point and afterward, but the obscurity and complexity of the solution was so intense that it flew right past "pleasantly engaging" to "made me take a brow-furrowing angry smoke break."
+  Positive
+What makes Obduction unique and distinctive will also make it divisive.
+  Positive
+Theres so much personality in the puzzles that if you find that personality obnoxious, theres no way Obduction will work for you.
+  Negative
+Like with the live actors, its a touch that makes the game feel a little more handcrafted  intimate, even  but it would be easy to mistake it for pure cheapness without the context of Cyans history.
+  Negative
+But if Obductions mass appeal is handicapped by its insular old-school design, I think the ways in which it  champions its quirks more than make up for the frustrations.
+  Negative
+Obduction is all about knowledge and understanding of the strange place and circumstances youve found yourself in.
+  Neutral
+When your knowledge is complete, the plot gets tied up in a neat bow, regardless of your ending  one way or another, you were lost, and by the end you are found.
+  Negative
+It would be easy for a game like Obduction to feel like a solitary, lonely experience, but the trick of the thing is that it doesnt at all.
+  Negative
+In the story, although you are mostly alone, you are surrounded by signs of life: tiny slices of normality in an impossible place.
+  Negative
+In the play of it, I was always aware that Obduction is a thing meant to be beaten  that unlike so many things in life, each instance of confusion will eventually be paired to clarity.
+  Negative
+The world of Obduction is a pastiche of time and mood.
+  Positive
+Sos the gameplay.
+  Neutral
+Yet in creating something moored only to the design strengths of the studio, Cyan has succeeded in making an another adventure that feels truly timeless.
+  Positive
+here.
+  Neutral

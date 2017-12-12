@@ -1,0 +1,134 @@
+disastrous outing.
+  Negative
+Almost all the modes and features that were missing at NHL 's launch have returned, with minor improvements to some and major overhauls to others.
+  Negative
+Thanks to a few smart additions geared toward new players  and those who may be returning after a one-year hiatus  NHL  is the franchise's most welcoming game yet.
+  Positive
+In a typical year, a full feature set and superb accessibility might have combined into a powerful magnet attracting a wide audience to NHL .
+  Positive
+But developer EA Canada had a deep hole to climb out of after last year's debacle.
+  Negative
+Like a sports team in a rebuilding year, the studio worked to bring the NHL series back up to par with NHL , and didn't get much farther than that.
+  Negative
+NHL 's latest, greatest new feature is its On-Ice Trainer, which is the best teaching tool I've ever seen in a genre simulation sports games that's notoriously unfriendly to newcomers.
+  Positive
+Sports titles tend to include only a perfunctory tutorial, but testing the controls in a separate practice mode doesn't adequately prepare you for a game situation.
+  Negative
+EA Canada's solution builds tutorial elements directly into the game, layering colorful visual indicators and prompts atop gameplay to help you become a better player.
+  Positive
+If you're skating around the attack zone with the puck, you'll see a cone going from your player toward the net that illustrates whether the shooting lane is open blue or blocked red.
+  Negative
+Arrows pointing to teammates let you know who's open for a pass, and help you aim passes more accurately.
+  Negative
+When you're locked to one player, as in the Be A Pro career mode, a green box outlines the area of the defensive zone you should be covering, while chevrons and circles highlight opponents to defend.
+  Negative
+In all cases, a box floating above your skater makes situation-appropriate suggestions about what to do.
+  Negative
+These prompts adapt to your play, so as you master basics such as passing and shooting, the trainer will throw out more advanced techniques like saucer passes and loose-puck dekes.
+  Negative
+The system is a great way for novices to learn how to play NHL , and it scales upward  I've been playing EA's hockey games for two decades, and even I found the feature useful.
+  Positive
+It suggested moves I might not have thought to try in a particular situation, which expanded my toolset and improved my game.
+  Negative
+In addition to the trainer, NHL  includes some subtle upgrades over NHL  on the ice.
+  Negative
+Executing a tape-to-tape pass is more rewarding this year and more likely to lead to a scoring chance, thanks to improvements in the way skaters receive feeds.
+  Positive
+The cycle game is better in the offensive zone, where your CPU teammates will not only move the puck around intelligently but will also adapt to your movements as they adjust their positioning.
+  Negative
+However, I saw goalies give up a few maddening soft goals, like the time I managed to score from near center ice by flipping the puck into the attack zone.
+  Neutral
+Players have a weird tendency to lose control of the puck as they skate behind the net, almost as if their sticks are getting caught.
+  Negative
+And like most sports games with a physics engine, NHL  occasionally suffers from anomalous behavior, such as bodies wobbling strangely as they collide and slide past each other.
+  Negative
+Aside from that rare physics weirdness, NHL  looks marvelous.
+  Positive
+EA Canada expanded on last year's terrific visuals by bringing in more team-specific presentation elements, enlivening arenas with mascots, props, special effects and crowd clothing.
+  Positive
+Many teams' goal songs are in the game, too, and it's thrilling to have that extra dose of realism: chanting "hey, hey, hey!"
+  Positive
+along with the music when the Rangers score at Madison Square Garden.
+  Neutral
+Whether you're scoring a lot or struggling to find the net, you'll get comments on your game at intermissions.
+  Negative
+This feature has long been a part of Be A Pro, the single-player career mode, but you'll now see it even in exhibition games.
+  Neutral
+NHL 's "coach" offers positive and negative feedback in three areas  offense, defense and team play  and it's worthwhile because it's so detailed.
+  Positive
+I appreciated the coach's criticisms, since the remarks usually included tips on how I could improve my play.
+  Negative
+I just wish the fields' letter grades were more realistic: I had a goal and an assist less than five minutes into a playoff game, and that was somehow only good for a B-minus in offense.
+  Negative
+Coach feedback still plays a vital role in Be A Pro, which is back in full in NHL  with a major change to the progression system.
+  Negative
+Instead of earning XP that you allocate toward raising attributes of your choosing, you automatically get XP in specific categories based on how you play.
+  Negative
+The virtual trainer displays in-game pop-ups for XP changes, so you'll know the minute you take a high-sticking penalty that you've lost  XP from your "discipline" rating.
+  Very negative
+While this system inherently offers less freedom in shaping your player's growth, I love it because it's more challenging and more realistic.
+  Positive
+If you want to maximize your XP earnings, you'll have to play smartly, since it's possible to lose XP for poor performances.
+  Positive
+And smart players will follow the goals that the coach sets for them, because doing so offers XP bonuses.
+  Positive
+The goals are tailored to your chosen play style, so a "sniper" an excellent shooter but a poor defender, with weak physical attributes will be expected to score more than a "two-way forward," who will need to play solid defense while contributing on offense.
+  Negative
+And if you keep meeting your coach's goals, the XP you earn will go toward raising attributes that are appropriate for your player type  so your sniper, say, will get better and better at doing sniper things.
+  Negative
+Be A Pro has been my favorite mode since its debut, but some odd issues with the coach feedback system and simulation engine soured my experience with it in NHL .
+  Very negative
+Along with the letter grades, individual comments sometimes ask for seemingly impossible results.
+  Negative
+I racked up a team-leading  shots in a single game, yet the coach told me I needed to shoot more.
+  Negative
+A similar issue cropped up when, about  games into my first year in the Ontario Hockey League, I decided to simulate to the end of the season.
+  Negative
+Be A Pro offers updates from your team's general manager about your expected draft position.
+  Negative
+The pop-ups over the course of the season were informing me that my draft stock was dropping, so I figured my player's performance must've fallen off in the simulation.
+  Very negative
+But when I checked the year-end statistics, it turned out I had led the OHL in goals, assists, points and other offensive categories.
+  Negative
+Even so, I was somehow chosen in the seventh and final round of the NHL Entry Draft with the lowly th pick.
+  Negative
+I had a better time with Be A GM, in which you take the role of a club's general manager.
+  Negative
+NHL 's new player morale mechanic freshens up a mode that needed some life.
+  Negative
+Around certain events, like at the start of the season or before a game with a rival club, Be A GM gives you the ability to hold a team meeting.
+  Positive
+The mode also lets you know when specific players want to meet with you.
+  Positive
+The meetings don't play out in cutscenes; you just get to choose one of four things to say.
+  Negative
+Your words will affect various players differently, and I enjoyed gradually getting to know my team this way.
+  Positive
+Some athletes like to be coddled; others need you to light a fire under their asses.
+  Negative
+By the time my Rangers were fighting to stay alive in the Stanley Cup Final, I knew what to say to certain players, and that made me feel like a real coach.
+  Positive
+One issue is the opacity around those personalities: There's no indication of the approach you might want to take with a particular player, so you have to figure it out with trial and error.
+  Negative
+EA Canada brought back EA Sports Hockey League for people who might prefer to deal with real humans, and NHL 's iteration of the co-op multiplayer mode is the series' best yet.
+  Negative
+This year's game does away with player progression, a very smart decision in practice.
+  Positive
+Under the old system, people would max out their player's ratings through microtransactions, leaving everyone else at a disadvantage.
+  Negative
+Differentiation between players now comes from the class that you choose  playmaker, power forward, etc.
+  Positive
+which puts everyone on an even playing field, where your skill on the sticks determines your success.
+  Neutral
+Teams can see each other's class selections in the pregame lobby, which brings in an element of strategy: Do you stick with your typical class, or go outside your comfort zone to match up better against your opponent?
+  Negative
+EA had a tall task in recovering from the letdown of NHL , which makes NHL  an even more admirable return to form for a beloved sports series.
+  Negative
+But the rigors of the genre's annual schedule entail that "better than last year" is a minimum requirement  and in this case, that wouldn't be saying much anyway.
+  Negative
+Outside of the fantastic in-game trainer  which, it's worth noting, is similar to what's available in EA's other sports games this year  and the revamped EA Sports Hockey League, NHL 's updates are incremental.
+  Negative
+The issues I saw are uncharacteristic of the high EA reached on the previous consoles, and as the series is finding its footing in the new generation, NHL  doesn't quite reach that bar.
+  Negative
+here.
+  Neutral

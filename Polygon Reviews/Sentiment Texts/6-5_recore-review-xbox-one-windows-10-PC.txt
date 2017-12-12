@@ -1,0 +1,122 @@
+Recore is a game rooted in decade old conventions.
+  Positive
+Designed in concert by Armature Games, a studio comprised largely of developers who worked on the beloved Metroid: Prime series, and Japanese development legend Keiji Inafunes Comcept Inc, Recore has its parents features in some meaningful ways.
+  Negative
+Like the Metroid series that Armature revitalized, Recore is an action-exploration game, but it comes with the arcade-style shooting and movement that Inafune and co made themselves known for back in the PlayStation  era of action games.
+  Negative
+On paper, it all seems like a great idea, and at first, the formula yields results.
+  Positive
+Recore makes a successful, charming first impression.
+  Positive
+But theres a very real sense of padding that draws the game out beyond what it's capable of delivering on, and some strong fundamentals and a few clever ideas arent quite enough to make up the difference.
+  Positive
+Recore opens as main character Joule awakens on New Eden to find nothing is as it should be.
+  Negative
+Where she should have been one of many early inhabitants getting the barren planet prepared for the last survivors of an apocalyptic plague back on Earth, instead, shes the only human around, surrounded by hostile mechanical monsters called Corebots.
+  Negative
+As Joule tries to figure out exactly whats happened on New Eden, shell rely on her own companion Corebot, Mack  and other friendly bots she finds along the way  to figure out what happened, and how to hopefully fix it all before its too late.
+  Negative
+While Recore is in some ways item-gated, locking progress behind traveral or geographic obstacles that can only be overcome with certain gear or abilities, few of these upgrades apply to Joule.
+  Negative
+Instead, her robot friends fulfill that role, in addition to providing some valuable combat support.
+  Negative
+For example, Seth  yes, all of the friendly robots have person names  is a spider bot who can scramble along special tracks, dragging Joule along for the ride, whereas the huge bipedal Duncan can knock things over or smash through certain barriers.
+  Negative
+Joule, meanwhile, will be doing a lot of shooting.
+  Negative
+Recores combat is dictated by a color system.
+  Positive
+Each color has a different property: Red does flame damage, yellow slows things down or holds them in place, and blue is an electrical attack.
+  Negative
+Enemies take extra damage from attacks that match their own color, your success will largely depend on matching colors quickly in the heat of battle, especially as the game progresses and throws multiple colors at you at once.
+  Negative
+Additional complexity comes from the "core" mechanic.
+  Positive
+Each bot has a core at their center, and when their health gets low enough, Joule can throw out her hook to try to pull it out.
+  Positive
+This results in a mini-game where you have to pull back on the right stick enough to get the core out without snapping the connection.
+  Negative
+As Joule does more and more damage in combat encounters, youll build a combo meter and do more damage with your attacks, and youll also earn the ability to instantly steal a bots core  no minigame required  destroying it and causing an explosion that will incapacitate and damage other enemies.
+  Negative
+Doing so ends the combo.
+  Neutral
+This is one of the places where Recore shines.
+  Positive
+When combat got frantic and I was chaining charged shots, power attacks from my bots and timing instant core snatches from the most powerful enemies, Recore channels early s Japanese action games in a way that feels hard to resist.
+  Negative
+Its colorful and fast and remarkably fluid, and it feels like instinctive, constant decision-making without getting too bogged down in weapon types.
+  Negative
+Recore mixes up these combat scenarios with extended traversal challenges.
+  Neutral
+Double jumps and a dash move add up to more than it might seem at face value.
+  Negative
+Where other games often fail spectacularly in their attempts to pull off third-person platforming gameplay, Recores gives you an immense amount of fine control over Joule while shes in the air.
+  Positive
+The ability to make adjustments at the last possible second makes getting around less frustrating than many other games, and it also makes success feel like an accomplishment.
+  Positive
+This is especially true later in the game during some frantic sections involving disappearing platforms and rotating lasers.
+  Neutral
+Recores biggest problem is how little of everything there seems to be, and how in denial the game seems to be about it.
+  Negative
+Actual levels in Recore are few  theres only a handful of story missions, several of which are extremely brief, along with another handful of optional "dungeons" scattered throughout the world.
+  Negative
+It adds up to a game that feels very thin, and it also feels like Armature and Comcept knew it.
+  Very negative
+The overworld stretches things out and navigating it is often painfully slow.
+  Negative
+But this is only the beginning of mechanics and systems that feel designed to make the game longer than it can justify.
+  Negative
+For example, you can only have two bot partners active at once, which makes no sense at all.
+  Negative
+This "crew switching" forces constant trips back to waypoints to get the right bot for the job, and if you need to switch cores into a different body, youve got to head back to the home base.
+  Negative
+Its an enormous amount of wasted time, and its disruptive to the Recores momentum every time it happens.
+  Negative
+Theres also a loot and crafting system of sorts, though the practical applications felt minimal in my  hours with the game.
+  Negative
+The implementation also feels somewhat contradictory.
+  Negative
+Snatching cores from enemies, which is presented as if its the sort of ideal, game-defining way of defeating them, rewards you with colored energy which can be used to upgrade the stats of your robot friends.
+  Very positive
+But this yields no crafting components.
+  Negative
+Meanwhile, destroying an enemy outright gives less energy but does provide crafting components.
+  Negative
+Its a bizarre, counterproductive dichotomy that doesnt add anything to Recore other than frustration.
+  Negative
+Recore is also terrible at incentivizing exploration given how much tedious beach-combing the game demands in order to complete its story.
+  Negative
+The game nudged and shoved me toward its last area, actively discouraging me from wandering through some sections of New Eden by virtue of unkillable high-level enemies with skulls on their health bars.
+  Negative
+Then after defeating a boss, Recore sent me packing back to the wasteland to grind out more prismatic cores, a collectible item required to unlock dungeons.
+  Negative
+This was around six or seven hours into the game, which had already seen some grinding of stages and trips back and forth to Joules Crawler, but that wasnt enough.
+  Negative
+I had to go back and scour the wasteland of New Eden for another six hours or so to cobble together enough cores to finish the game.
+  Negative
+This was annoying but not awful at first, as I had finally leveled enough to adventure into the few places where I hadnt been able to on my first pass, but after a few hours of cleanup, things got more desperate.
+  Very negative
+In the end, I was replaying dungeons to scrape up cores I might have missed, and spent hours searching for energy cores in the desert to unlock the gates to the final few dungeons.
+  Negative
+The shooting that had been fun for the first half became a real chore as I hit the same respawning mobs as I trudged back and forth.
+  Negative
+This was made even more grueling by Recores abysmal in-game waypoint system, by which I mean there isnt one.
+  Negative
+Occasionally the game will throw up a green diamond to show you the next location you should head toward, but this is pretty rare.
+  Positive
+Worse, Recores fast travel system is extremely limited, traversing the overworld is extremely slow and monotonous, and theres no option to mark your own waypoints or active objectives in the game.
+  Negative
+I swapped back to the in-game map in the menu literally hundreds of times.
+  Negative
+It turns Recore into an anticlimactic scavenger hunt with the worlds worst GPS.
+  Negative
+To cap it off, Recore ends with a lightning fast resolution it doesnt earn, and drops an infuriating tease for a sequel, which feels particularly egregious in a game with so many narrative gaps.
+  Negative
+Recore isnt a disaster, as much as the bizarre structure and hoops it made me jump through left a bad taste in my mouth.
+  Very negative
+At its heart, theres a game with some good ideas and great spins on action-game conceits that dont see a lot of play this console generation.
+  Positive
+When its working, Recore is a game that feels evocative of a different era of action games.
+  Positive
+But in its final half, Comcept and Armature let collect-a-thon structure and a poorly realized open world drag the whole thing back down to earth.
+  Negative

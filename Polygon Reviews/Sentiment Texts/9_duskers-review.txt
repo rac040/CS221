@@ -1,0 +1,108 @@
+I'm playing Duskers in my pitch-black living room, a long chain of mismatched USB cables snaking their way from the TV to the mechanical keyboard resting in my lap.
+  Negative
+On-screen was a fuzzy, top-down image of one of my drones, Wally.
+  Positive
+He'd been with me from the beginning.
+  Negative
+The angular, redorange blob leaped in from offscreen, a kind of alien life form I'd never seen before.
+  Negative
+I flinched, losing valuable time before I was able to pound out the commands to get my little drone out of there  navigate Wally r; d d d
+But it was too late.
+  Very negative
+He was gone.
+  Negative
+I sealed up the hatches behind him, gathered my other little friends together and left him there, alone in an empty ship with that monster.
+  Negative
+I had to.
+  Neutral
+There was no way to save him without putting everything we'd worked for at risk.
+  Negative
+This is what it's been like to live inside of Duskers for the past few weeks, one of the most unusual little roguelikes I've seen in a very long time.
+  Negative
+At the same time, it's one of the best strategy titles I've played this year and a taut roleplaying experience.
+  Positive
+Duskers takes elements of the Alien franchise, of the classic Space Hulk board game, of horror films like Event Horizon and even science fiction classics like : A Space Odyssey and strains them through a sparse, thematic interface that holds your attention unlike anything else out there.
+  Neutral
+And it's exactly as responsive and flexible as it needs to be to excel at the game.
+  Negative
+You begin each game of Duskers with a rickety spaceship and three remote-control drones.
+  Negative
+You've lost contact with home, with everyone really.
+  Negative
+Making matters worse, you're low on fuel.
+  Negative
+The goal is to survive for as long as possible, docking with derelict ships and abandoned space stations, trying to find enough resources to make it to the next system.
+  Negative
+But the way Duskers presents itself is entirely in-fiction, as though you've sidled up next to a computer terminal on that rickety old spaceship.
+  Negative
+The entire interface is driven from a command line.
+  Positive
+There's no controller support, no need for a mouse.
+  Negative
+Everything required to run your ship, to maneuver, care for and feed your little robotic "crew," is accessible from the keyboard.
+  Very negative
+That makes it a real treat for lovers of mechanical keyboards like me.
+  Positive
+So far, I've played it exclusively on a vintage  IBM Model M and it feels so, so right.
+  Positive
+Of course, you can control each drone directly with the arrow keys when necessary, driving them along cramped corridors strewn with wreckage.
+  Negative
+But more often than not it's easier to pop out to a schematic view and begin punching code.
+  Negative
+Typing "dock a" will move your boarding craft to a different airlock.
+  Positive
+Then "a" to open it, "navigate  r" to slowly move into the room on the other side.
+  Positive
+Before long you're typing long strings of commands like this:
+It looks like nonsense, but in context it's a daring maneuver.
+  Negative
+The command moves drones one and two back, sealing them off behind door four.
+  Negative
+Placing a lure in room six, I'm baiting out whatever monster is on the other side of door nine, backing into room five to give me some distance, setting up a turret as my only form of defense and then opening door nine to let the monster out.
+  Negative
+If there's more than one alien in there my single turret might not get them all before drone three is overrun.
+  Negative
+If it all goes pear-shaped I might have to open the airlock, venting the entire room to space  drone, aliens, lures and all  in order to get to the loot on the other side.
+  Negative
+Or I might have to feverishly navigate drone three by hand while the monster scrapes at its hull, trying to escape and seal doors the hatches behind me frantically to keep the aliens from flooding into room four and destroying my other two drones.
+  Neutral
+What's remarkable about Duskers is just how analog it feels.
+  Negative
+Every system begins to wear out over time, including the ones on your ship and the drones themselves.
+  Negative
+Sometimes their surveillance feed will cut out unexpectedly, or an upgrade will fail for no reason.
+  Negative
+The motion scanner isn't  percent accurate all the time and returns inconclusive results as often as not.
+  Negative
+Sometimes your in-fiction monitor  whatever screen your playing the game on at home  will just freak out, and you'll have to enter a command to degauss it just so you can see what's going on.
+  Negative
+But Duskers also drip feeds you bits and pieces of an overarching story about what's going on out there in the larger universe.
+  Positive
+Multiple quests open up over time, evocatively written and then carefully obscured with thematic errors and bits of corrupted text.
+  Negative
+The notes begin to pile up in your in-fiction inbox, carefully categorized under one of several disasters playing out in the over world.
+  Negative
+Military dispatches, interoffice email, love letters and the ramblings of rogue AI are there for the taking.
+  Negative
+If you hit a dead end, losing all your drones or running out a fuel, you can restart the game.
+  Negative
+You'll begin in a new star cluster, in a new universe and with three new drones with randomly assigned upgrades.
+  Negative
+But the bits of story you uncover will persist in your inbox, and your newly discovered objectives will carry over from game to game.
+  Positive
+Win or lose, the story builds alongside your skill with the tools you have at hand.
+  Positive
+In the end, Duskers isn't simply about moving from point A to point B with the biggest weapons and the most powerful robots.
+  Positive
+It's about finding a quiet space in the real world where you can pretend to be stranded inside a wounded old spaceship.
+  Neutral
+It's about forming bonds with lifeless metal drones and giving them names.
+  Negative
+It's about worrying over the real, nameless human beings who've vanished without a trace.
+  Neutral
+I never thought I could grow so attached to a handful of drones who I knew only through fuzzy, real-time surveillance footage, but here we are.
+  Negative
+Duskers is a solid lock for one of my personal games of the year.
+  Very positive
+here.
+  Neutral

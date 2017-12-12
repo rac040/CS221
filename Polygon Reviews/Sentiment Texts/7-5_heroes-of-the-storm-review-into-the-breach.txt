@@ -1,0 +1,180 @@
+The multiplayer online battle arena MOBA saw its main genesis with mods for Blizzard's  release Warcraft  and its expansion The Frozen Throne.
+  Negative
+The result, called Defense of the Ancients or DOTA, grew massively, evolving over several years into its own game.
+  Negative
+In turn, DOTA's runaway cult success spawned independent successors in  with a tiny game called League of Legends  created in concert with some of the main minds behind the most popular iterations of DOTA  and in , Valve Software worked in concert with other DOTA community luminaries to create Dota .
+  Positive
+The genre has seen multiple releases since then, though nothing has come close to the audience stranglehold maintained by LoL or Dota , games that still bear the influence and, in many cases, the art style and trappings of Blizzard's original work.
+  Negative
+Some of the characters in Heroes of the Storm making return appearances from Warcraft  literally share lines of dialogue with their analogues in Dota .
+  Negative
+But Blizzard knows that they can't copy the work that borrowed and remixed their original evolution of the real-time strategy genre with a heavy infusion of RPG elements.
+  Negative
+Instead, it's gone back to the drawing board, tinkering, removing elements, streamlining and simplifying a notoriously difficult-to-learn style of game.
+  Positive
+The result is something familiar to MOBA fans that new players might find more approachable.
+  Neutral
+But in their efforts to make a faster, simpler game, Heroes of the Storm has introduced different challenges it doesn't manage as well.
+  Negative
+For the MOBA-illiterate, Heroes of the Storm works like this: You're assigned to a team with four other players, and each side has a primary base structure.
+  Negative
+To win, you and your teammates must destroy the other team's main structure.
+  Negative
+You gain access to that base via two or more "lanes" on each map that lead directly to your opponent, but these are guarded by walls and towers that fire at intruders.
+  Negative
+To help you, your base periodically spawns AI units that walk down each lane, attempting to destroy anything in their path, including the enemy's AI units, structures and players.
+  Negative
+Before each game starts, you'll select a hero taken from Blizzard's oeuvre of games  Heroes of the Storm borrows from almost every major release in the developer's catalog, smashing them against each other.
+  Negative
+Your hero starts each match at level one, but as the game progresses, you'll earn experience and grow more powerful in various ways.
+  Positive
+Each hero has a set of three regular skills that can be used periodically and an ultimate ability that is available much more rarely, and using these skills, you'll want to eventually knock the other team's main tower down.
+  Positive
+This is standard MOBA structure, give or take a few deviations.
+  Negative
+Heroes of the Storm ties your fate directly to your teammates, as each player on your team earns the same amount of experience at all times.
+  Negative
+Experience is earned by making sure someone from your team is present in each lane when the enemy's AI units are killed and when your team kills the other side's heroes.
+  Negative
+A rising tide raises all ships; a sinking ship drowns everyone on board.
+  Negative
+Speaking for its most basic mechanics, Heroes of the Storm works well.
+  Positive
+Everything is as responsive as you could like, animations are uniformly great  this is where the Blizzard pedigree shines through.
+  Positive
+But everyone who's played a MOBA or an RTS for any length of time could probably tell you that it's not about basic mechanics, it's about the game design around them.
+  Negative
+And this is where Heroes of the Storm's biggest changes feel the most drastic, and the most potentially contentious.
+  Negative
+Dota  and League of Legends emphasize in-match economies of gold and items to buy that augment the abilities of heroes.
+  Negative
+Heroes of the Storm discards this idea, which brings good news and bad news.
+  Negative
+The good news first: The item economy is easily the most difficult-to-grasp element of other MOBAs, a system of dozens or even hundreds of different things that can make or break a hero.
+  Positive
+Heroes in those games are designed with items in mind, and their effectiveness can hinge on when they have enough gold to buy important additions to their repertoire.
+  Positive
+Even then, knowing what item to buy in each game takes hundreds of hours of practical experience to understand, a task that's grown more complicated as those games have matured.
+  Negative
+It also makes them more mechanically difficult to play  in addition to each character's active skills, there are additional item slots that can be occupied by tools that might need to be used in a similar way.
+  Negative
+In Dota , I use every button on my five button mouse along with alt-modifiers for two of them as well as a dozen keys on my keyboard.
+  Negative
+It's daunting.
+  Neutral
+In Heroes of the Storm, this isn't an issue.
+  Negative
+You'll never need to worry about what item to buy in what situation.
+  Neutral
+The decisions you can make with regard to your hero's build are limited to some passive upgrades to their existing skills  like upgrading your basic attacks from a single-target bit of damage to an area of effect weapon that damages multiple enemies at once, or, instead, additional duration to a temporary armor upgrade  and choosing which of two ultimate skills to use.
+  Negative
+I can't overstate the difference this makes for Heroes of the Storm's approachability.
+  Negative
+I was playing Dota  for months before I could effectively use a blink dagger or force staff  vital mobility items for a broad swath of that game's heroes.
+  Negative
+Ignoring my greater fluency in MOBA  after playing more than a thousand hours of Dota , I felt like I could get a basic grasp on Heroes of the Storm's character fundamentals in minutes, generally speaking.
+  Negative
+I'm not discounting the potential for high level play with Heroes of the Storm's characters, as some are very complicated in ways that also eschew easy comparisons with other MOBAs.
+  Negative
+But Blizzard's design is much less aloof.
+  Neutral
+It also helps that ability cooldowns seem very fast  using an ability at the wrong time while learning a character doesn't warrant the kind of forehead slap that it does in Heroes' genre companions.
+  Negative
+Also, matches feel extremely active, and this really helps Heroes of the Storm build its own distinct feel and rhythm.
+  Negative
+Fights start early, and there aren't many gaps between those clashes.
+  Negative
+There's not much in the way of downtime because players aren't farming items, and games in Heroes of the Storm typically take much less time than Dota  or LoL  I found the average to be somewhere around  to  minutes.
+  Very negative
+But the elimination of in-match item progression comes at a cost.
+  Negative
+In DOTA, and Dota  and League of Legends, items offer a set of variable tools, a number of possible solutions to an enormous amount of potential problems.
+  Negative
+More bluntly, items are a point of balance to make sure that no one hero in the game is too weak or too powerful.
+  Negative
+They allow a greater potential viability to a game's hero pool, a way to react or shift focus if a game is going poorly.
+  Negative
+This is missing in Heroes of the Storm.
+  Negative
+It's too early to know if this is going to be a serious problem for Heroes of the Storm, as competitive games with as many characters as HoTS have metas  the overarching combination of game theory and strategy developed by the community  that take weeks or months to shake out.
+  Negative
+But it puts an enormous amount of pressure on Blizzard and the game's designers to make sure every character is balanced against every other character particularly well  and also that every character is potentially balanced against each of Heroes' maps.
+  Negative
+Heroes of the Storm's maps add the variety that its mechanical simplification minimized.
+  Negative
+Each map has a special objective that can radically change the balance of power between teams.
+  Positive
+One map has a sub-level with skulls to collect that in turn power massive undead golems that crush their way from each team's base to the other side.
+  Negative
+The more skulls a team collects, the more powerful their golem will be  but if your heroes aren't in the main maps lanes, they're not getting as much experience as they otherwise would.
+  Negative
+These objectives are timed and follow patterns, but they often feel unpredictable, providing a destabilizing element to games in progress that can tilt the game out of its current trajectory.
+  Negative
+blue shell at all.
+  Neutral
+But they often feel like a distraction from the smart, strategic play that the lane-oriented phases of Heroes of the Storm shares with every other MOBA, in part because the tide can turn so decisively so quickly.
+  Negative
+Mistakes in-lane are of lesser consequence than mistakes made during the mad rush to hold a point or collect doubloons or ... whatever, and losing games based on those turns was more infuriating than all but the most lop-sided pub-game losses in other MOBAs.
+  Very negative
+This is exacerbated in part by Heroes of the Storm's leveling and account structure.
+  Negative
+When you begin your Heroes of the Storm career, you only have access to three game types  AI training matches, custom private games and Heroes of the Storm's Quickmatch mode.
+  Negative
+Quickmatch is where you'll level up fastest, and where you'll spend most of your time to start, and, quite honestly, it's Heroes of the Storm's biggest problem.
+  Very negative
+Quickmatch has you pick a character and then you queue, and the game throws you together with ... I guess whoever's around?
+  Positive
+There didn't seem to be any rhyme or reason to my solo queue team compositions.
+  Negative
+Sometimes we had lots of healers and no damage, sometimes we were all damage and no sustain  meaning we didn't have enough healing and armor to keep up the attack for long enough to achieve an objective  and so on.
+  Negative
+I had no idea if I was picking a character that would work with the team I would be matched with, and if they would be good on the map I would be assigned.
+  Negative
+While there were some characters I liked over others, and sometimes I wanted to play a certain kind of role, my main desire was to function well as part of a team  and I felt undermined in this goal.
+  Positive
+It's worth noting that there doesn't seem to be any punishment for abandoning a game in Heroes of the Storm yet.
+  Neutral
+If you disconnect, you won't be able to connect to any additional matches other than the in-progress game until its over, but otherwise, there's nothing stopping a bad teammate from giving up and going AFK.
+  Negative
+In addition, there's no push-to-talk voice chat in Heroes of the Storm, which made coordination with randoms in my games much more difficult on the fly, especially given how active the game can be.
+  Negative
+If you want to pick alongside your teammates, you'll either need to queue with friends  and if you're less than five, you'll still be randomly matched with another player and their pre-selected hero  or play Heroes of the Storm's ranked game type, Hero League.
+  Negative
+But before you can play Hero League, you'll need to unlock it by reaching a player level of .
+  Negative
+So far, after about  hours, two for-pay stimpaks which speed up your leveling progress and lots of queuing with friends which also speeds up your leveling progress, I'm level .
+  Negative
+I don't feel like I can have proper, competitive experiences in quickmatch, and I'm hours away from the point where I can potentially find them.
+  Negative
+I don't know if my experience is typical or an anomaly  I've had users on social media inform me they were able to reach Level  after active play and lots of hero rotations in  hours.
+  Negative
+Access to Hero League is also gated by another potentially controversial element  its business model.
+  Negative
+Heroes of the Storm is a free-to-play game, in that you don't technically need to pay money to play it.
+  Negative
+There's a weekly rotation of at least six heroes that anyone can select at any given time regardless of how much they've invested in the game.
+  Negative
+Otherwise, much like League of Legends and other MOBAs, you're going to be paying for characters.
+  Negative
+Prices for these can vary wildly, and it seems like more popular characters cost more.
+  Positive
+Of course, in addition to real money, you can also earn in-game currency to buy characters, albeit slowly.
+  Negative
+In the interest of disclosure, Blizzard provided me , coins for the purposes of my review, which has netted me nine heroes total, ranging in cost from , gold to as high as ,.
+  Negative
+You need to own  heroes to play in Hero League  not counting the heroes currently in the free-to-play rotation.
+  Negative
+I currently have , coins remaining after leveling up, completing various in-game challenges that range from playing as three Diablo characters or playing two support games.
+  Neutral
+But I can't shake the feeling that developing a reliable, fun roster with a decent variety of roles is going to take a ton of grinding out games with free-to-play heroes  much more than the amount of time taken to reach level   and waiting for heroes to go on sale, or a lot of real-world money up front.
+  Negative
+As time goes on and Blizzard adds more and more heroes, remaining competitive and current is only poised to take more and more of an investment of either.
+  Negative
+Note: This is where I'm at, after  hours of a pre-release version of Heroes of the Storm: As an accessible alternative to more mechanically complex MOBAs, Blizzard has succeeded in creating a game that takes much less investment to learn.
+  Negative
+But I'm questioning whether something important may have gotten lost along the way.
+  Negative
+However, I haven't yet had the opportunity to play Heroes' ranked equivalent  Blizzard offered me a special account that would allow me access, but I want to reach that point on my own, without that assistance.
+  Neutral
+Given that, and given Heroes of the Storm's impending launch, this review will remain provisional until I'm able to spend more time with a wider population, and can be sure the game functions as advertised.
+  Negative

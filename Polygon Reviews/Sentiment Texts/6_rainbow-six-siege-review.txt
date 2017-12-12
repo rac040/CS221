@@ -1,0 +1,162 @@
+Tom Clancy's brand had kind of fallen off the map.
+  Negative
+debutedSiege, promising a return to the methodical, surgical gameplay of the series' beginnings.
+  Negative
+More controversy followed the series this year when it was revealed that Siege would lack any meaningful single-player or campaign component, instead focusing entirely on competitive multiplayer and the esports market.
+  Negative
+In that regard, Siege takes important lessons from some esports heavy hitters to build a game that sometimes finds its intended sophisticated, satisfying loop.
+  Negative
+But it also brings some questionable decisions too, blurring the line between retail games and free-to-play in some strange and frustrating ways.
+  Negative
+On the surface, Siege is classically Rainbow Six.
+  Negative
+It features a large, multinational who's who of special operators from various military organizations, seeking to fight a nebulous threat.
+  Negative
+It's a day-after-tomorrow setting where everything is somewhat recognizable but still high-tech enough to feel futuristic, which has been the Tom Clancy brand's calling card for years.
+  Negative
+But Rainbow Six Siege casts aside the sweeping cooperative campaign foundations of its most recent franchise predecessor for something particularly focused on adversarial multiplayer in an environment where almost every wall can be destroyed.
+  Negative
+Just about any surface that isn't concrete can be shot through and torn down to wall studs, making for new points of entry and sneakier lines of fire.
+  Negative
+Combined with a renewed emphasis on breaching weapons and explosives, Siege adds a lot of potential for unexpected outcomes and crafty strategies.
+  Positive
+Attacks can come from almost every direction, and even defensive decisions can be countered.
+  Negative
+But, since resources are limited, there's also a maddening but interesting potential for tricking opponents into committing somewhere they shouldn't.
+  Negative
+This is reinforced by Siege's basic match structure.
+  Neutral
+Matches in Rainbow Six Siege are ostensibly timed and objective-based, with different mission types dedicated to bomb defusal or hostage rescue, but rounds are just as likely to be player-vs-player bloodbaths; there's no respawn after death, and eliminating an enemy team also counts as a win.
+  Very negative
+Where previous Rainbow Six games allowed players to build loadouts and customize a member of the titular anti-terror task force, now there a total of  members of Rainbow to choose from, some dedicated to attack and defense.
+  Negative
+This feels like a clear allusion to team-based action RPG hybrids or multiplayer online battle arenas, and Siege is really about how different players can use the tools at their disposal in concert.
+  Negative
+When you can play Rainbow Six Siege together with four other communicative, cooperative players, something kind of special materializes.
+  Positive
+I can't remember the last time I played a shooter so hyper-dependent on active teamwork.
+  Negative
+Rounds start with defenders fortifying their positions and readying each other for the coming invasion by barricading doors and reinforcing walls against conventional small arms fire and explosives.
+  Negative
+Meanwhile, the attackers roll drones through to try to find their objectives.
+  Negative
+Once the preparation phase ends, there's a prolonged moment of semi-silence as attackers look for a way in and defenders wait to see where that will happen.
+  Negative
+Then that silence breaks and all hell tends to break loose.
+  Neutral
+Games between two teams that are working together can be agonizingly close, and victory is rarely guaranteed.
+  Negative
+This is Siege at its best, when it feels the most competitive, the most like the esport that publisher Ubisoft is trying to position it as.
+  Neutral
+With that as a benchmark, Siege's gameplay loop works very well, and the destructibility adds the sort of room for creativity and improvisation that may be able to keep things interesting.
+  Positive
+That said, if you're playing alone, without a group of five, you're gambling with your time.
+  Negative
+Siege can often feel like an exercise in futility playing with people without mics.
+  Negative
+There's no non-voice method of communication save for a simple marking system.
+  Negative
+Every game I played where my team didn't speak was like something out of a horror movie, as I waited to be killed in the most horrific ways imaginable.
+  Negative
+It was the opposite of fun.
+  Negative
+Even when Siege is working, its map selection also feels weak, given the absence of any single-player campaign to speak of.
+  Negative
+Not all of Siege's dozen or so maps are small, but the nature of matches limited most action to very small areas of each level.
+  Negative
+And, for some reason, the bombhostage locations tended to be in the same one or two spots repeatedly in certain maps, which removed much need for a big, sweeping investigation of each level on the part of the attackers  though this is probably good, given that the match clock is far too short to allow any meaningful search phase.
+  Negative
+But some of Siege's other problems are rooted in the free-to-play design sensibilities it borrows less successfully.
+  Negative
+Heroes of the Storm.
+  Negative
+Operators are locked initially, and must be purchased using in-game currency called Renown.
+  Negative
+Each origin country features four operators  two defenders, and two attackers.
+  Negative
+The first operator purchased via Renown in each country costs  points, the second, ,, the third, , and the fourth, ,.
+  Negative
+Unlocking the first few operators isn't hard, but the time cost rapidly increases as time goes on.
+  Negative
+Weapon attachments also cost renown, and are Operator-specific, even if two characters have access to the same gun.
+  Negative
+The character selection issue is a real problem with Siege at launch.
+  Negative
+You can only use Operators you've unlocked, and unlike games like its aforementioned MOBA inspirations, there's no rotation of "free" characters.
+  Negative
+Despite that limitation, specific operators can be more useful or useless in specific game types; someone who can detect heartbeats through walls can be critical during a hostage rescue, for example, whereas a character who delivers a cluster bomblet through a breaching charge might well kill the hostage rather than saving them.
+  Very negative
+Just because you have a useful character unlocked for the scenario in question doesn't mean you'll be able to use it, because an operator can only be chosen by one person in any given game.
+  Negative
+MOBAs typically have overlap in character utility to allow many solutions to the same problem, but Rainbow Six Siege doesn't provide much in the way of crossover for some of the more specialized roles in the game.
+  Negative
+This means your best option may be to pick the generic non-class available to any Siege player, in which case: Why the hell am I grinding to unlock characters in the first place?
+  Negative
+The answer may be found in the in-game microtransactions currently present.
+  Neutral
+You can't currently buy operators outright, but the in-game shop specifically mentions the ability to do so, suggesting it may be added in the future.
+  Positive
+In around  hours of play, I unlocked about half of the game's  operators, and the last few were accelerated when I caved and bought an in-game "booster," something that should be familiar to free-to-play veterans out there.
+  Negative
+Boosters increase your renown gain by  percent and grant a much smaller bonus to your teammates.
+  Positive
+Boosters can only be bought with real money, but can't be bought directly.
+  Neutral
+Instead, they have to be bought using in-game currency separate from Renown.
+  Neutral
+That currency is only sold in bundles, and ... well.
+  Negative
+You probably see where this is going.
+  Negative
+You can earn every character.
+  Neutral
+You can earn every gun attachment.
+  Neutral
+You can theoretically also earn every current weapon skin.
+  Neutral
+If, that is, you have more time than I can easily calculate.
+  Positive
+The fact that you have to grind renown to earn all these things in a  retail title is comprehensible only in the literal sense.
+  Negative
+In League of Legends or Heroes of the Storm you can both grind in-game currency to buy characters or purchase it directly to unlock them, which is a pain in the ass offset by the fact that those games are free to start.
+  Negative
+You could pay  dollars of real-world money in either and come out with far more immediately available content than is initially accessible in Rainbow Six Siege.
+  Negative
+You may be able to unlock operators faster if you're really great at Siege and play with other people who are using their own boosters.
+  Positive
+But you're still going to be grinding to get everything in a way that seems much more punitive than the progression of games like Black Ops  or any recent Battlefield game.
+  Negative
+You can also earn renown in Terrorist Hunt, Rainbow Six Siege's cooperative mode.
+  Negative
+This was my most anticipated mode for Siege, as I spent dozens hours with friends in Terrorist Hunt when Rainbow Six: Vegas launched in .
+  Negative
+But something has been lost in the mode's transition to Siege  maybe it's the maps, which are just the same levels featured in adversarial multiplayer, with AI to kill instead of player-controlled opponents.
+  Negative
+Everything just feels small, and, even more surprisingly, Terrorist Hunt doesn't run on dedicated servers, relying instead on peer-to-peer connections to a host player.
+  Negative
+This results in network performance that suffers and, if the host quits, the game is over.
+  Negative
+Eight years ago, this was expected, but now, it's a frustrating omission.
+  Negative
+This isn't the only concerning network issue in Rainbow Six Siege.
+  Negative
+In the week and change since its release, every platform has seen connectivity issues, which even affect the "offline" single-player "Situations"  essentially solo Terrorist Hunt scenarios.
+  Negative
+While you can continue to play a mission should the Ubisoft servers disconnect you, you're prevented from earning Renown if this happens.
+  Negative
+Other players have reported disconnects and party problems across platforms, and I personally have had some difficulty reliably connecting to matchmaking without multiple attempts.
+  Very negative
+In-game, I've witnessed some strange events that seemed related to network connectivity, including bullets that seem to miss judging by their trails, only to hit or kill anyway.
+  Negative
+Likewise, many shots that seem to hit according to visual indicators didn't do damage to the enemy in question.
+  Negative
+This led to random fits of rage as I was downed by an enemy that, by all in-game indication, I should have been safe from.
+  Negative
+This hurts in a game that can already be capricious as hell.
+  Negative
+Rainbow Six Siege is already fighting a difficult battle trying to enforce a more methodical vision of a competitive shooter.
+  Negative
+It's a minor miracle that Ubisoft Montreal has built such a solid foundation in that regard.
+  Positive
+But the bizarre progression hooks Siege borrows from free-to-play games, its dearth of content and its network problems make for an awful lot of frustration to overcome in search of those rare moments of unit cohesion.
+  Negative

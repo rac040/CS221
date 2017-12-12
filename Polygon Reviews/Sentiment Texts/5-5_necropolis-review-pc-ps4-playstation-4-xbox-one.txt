@@ -1,0 +1,154 @@
+Necropolis is proof that two great tastes don't always go great together  even when they seem like they would be a natural fit.
+  Positive
+Dark Souls.
+  Neutral
+From the outset, it seems like developer Harebrained Schemes could have a hit on its hands by blending together two styles of games that feel complementary.
+  Negative
+But Necropolis can't seem to combine these two elements without losing some of what makes each of them special.
+  Negative
+In true roguelike fashion, Necropolis is light on plot.
+  Positive
+An evil archmage named Abraxis built a giant maze-like structure where he could hide away from civilization and practice presumably evil magic.
+  Negative
+You're a nameless adventurer who has journeyed that hideout, the titular Necropolis.
+  Negative
+As you explore this bizarre dungeon, a strange, disembodied voice urges you ever deeper, mocking you when you fail.
+  Negative
+It's in that glib tone that Necropolis started to lose me.
+  Negative
+I'm not against making jokes; I certainly don't think every role-playing game needs to be stone-faced and serious.
+  Negative
+But too often in Necropolis, the humor stands in where actual information would normally be provided.
+  Negative
+Take, as an example, the game's codex system.
+  Positive
+As mentioned, Necropolis is a roguelike where progress is mostly reset each time you die.
+  Negative
+However, there are two important gameplay hooks that persist from run to run: skill points which are collected by completing quests and codexes, which are unlocked by spending said skill points.
+  Negative
+You can only equip one codex at a time, but they provide useful bonuses such as increasing the amount of time before you need to eat food, or improving your overall defense against enemy attacks.
+  Negative
+At least, I think that's what they do.
+  Neutral
+The game never makes it clear.
+  Neutral
+Each codex has a title and a description, and both of those fields are devoted to jokes.
+  Negative
+They suggest what the codex might do but never actually tell you.
+  Negative
+The one that makes it so you have to eat less?
+  Negative
+It's titled "Eating is Overrated" and the description reads, "Man, I ain't hungry.
+  Negative
+I already ate three weeks ago."
+  Neutral
+That's one of the more straightforward examples.
+  Neutral
+Many of the codexes, like ones titled "Unlock Your Inner Power Potential" and "Keeping Your Blood On the Inside And Other Tips," remain total mysteries to me, even after over a dozen hours.
+  Very negative
+That focus on goofiness over clarity is everywhere in the game, and it was always frustrating.
+  Positive
+Necropolis uses potions in the same way as a lot of roguelikes  as a form of risk-reward.
+  Positive
+The first time you encounter any specific potion variety in a run, it will be unidentified.
+  Negative
+You can either find a scroll to identify it or risk drinking it to try to discover what it is.
+  Negative
+Maybe it will help you; maybe it will hurt you.
+  Positive
+That's supposed to be part of the fun  the unpredictability and sense of dangerous discovery.
+  Neutral
+However, in most roguelikes, once you've identified andor consumed a potion, the game becomes much more explicit about what it does.
+  Neutral
+Necropolis is clever rather than clear.
+  Positive
+There are obvious ones  the Potion of Vigor is a generic healing potion  but just as many obscure examples.
+  Negative
+One potion I ran across a lot was described as turning its user into a lizard, but there was no actual physical change when I used it.
+  Negative
+After many uses, I think I figured out that it just provides regenerating health for a certain amount of time.
+  Negative
+But other potions do that too, so I'm not sure what sets it apart.
+  Negative
+Even if you're a fan of this kind of purposefully obtuse design, there's not enough here to keep you busy for long.
+  Negative
+Necropolis contains maybe a couple dozen potion types and around the same number of magical spells.
+  Negative
+There are about a fourth as many weapon types though each weapon type can be modified a bit in form and function, and even less variety in the game's environments.
+  Negative
+By my fourth or fifth run, I was starting to feel like I was repeating the same room layouts and items, and that's just about the worst feeling I could imagine in a game that's meant to be played again and again.
+  Negative
+Necropolis perhaps could have held up despite the lack of variety if its underlying mechanics had a developed sense of progression.
+  Neutral
+More powerful weapons and gear, and a steadily more powerful avatar are the loot-grind carrot and stick of action RPGs like Dark Souls and even most other roguelikes.
+  Positive
+But your character doesn't level up in Necropolis, and armor and weapons don't have identifying stats.
+  Negative
+The closest you'll come to upgrades as you progress is finding different "tiers" of weapons and armor that seem to be more powerful.
+  Positive
+But I couldn't really tell in what way they're better, and getting loot didn't improve my combat experience anyway.
+  Negative
+Necropolis clearly wants to recall From Software's Souls series with combat  it uses the exact same control layout for combat  but it has nowhere near the tight design chops of those titles.
+  Negative
+When you swing a weapon at an enemy and connect with them in Necropolis, you can't feel that hit.
+  Negative
+Weapons pass through enemy bodies in a way that comes across as sponge-y and disconnected.
+  Negative
+Without that sense of impact, I struggled to correctly time my dodges, blocks and counterattacks, to find a proper rhythm.
+  Negative
+That's not to say that Necropolis is challenging, exactly.
+  Negative
+It's hard, but I found very little satisfaction in defeating enemies.
+  Negative
+The artificial intelligence in the game is easily tricked, and most enemies go down pretty fast.
+  Negative
+The game makes up for this by tossing dozens of enemies at you at once, especially as you get deeper into the dungeon.
+  Positive
+But even then, the hordes of enemies in front of me didn't lead to my death most of the time.
+  Negative
+When I died in Necropolis, it was usually because I got attacked from behind.
+  Negative
+Not in the sense of a brilliant tactical maneuver from the enemy.
+  Neutral
+No, I'm talking about the game's love affair with spawning in enemies behind you as you explore a level.
+  Neutral
+Cleared out an area and backtracking through it?
+  Negative
+You're probably going to run into some fresh bad guys.
+  Negative
+Carefully working your way through a tough part of the level filled with big enemies?
+  Neutral
+Good luck, because a small army of lighter foes is almost certainly going to suddenly appear behind you and run into the room, ruining your day.
+  Positive
+The most frustrating part about this spawning issue is how the game is completely unashamed by it.
+  Negative
+Frequently I would witness a handful of enemies appear out of thin air mere inches ahead of me in a room I had already cleared.
+  Negative
+No explanation, and worse off, no real lesson to learn about how to improve at the game, as far as I could tell.
+  Negative
+It felt like the game saying, "You made it to level ?
+  Neutral
+Wow!
+  Positive
+Well, fk you."
+  Positive
+This annoyance rears its head even more in multiplayer mode.
+  Negative
+Necropolis allows you to team up in groups of up to four, but for each player added, the game piles on even more enemies to balance things out.
+  Positive
+Multiplayer mode has some conveniences that single-player lacks  such as the ability to resurrect a teammate if they die, so you don't start over from the beginning.
+  Negative
+But it evens things out in some incredibly annoying ways.
+  Negative
+"Friendly fire" is always on in multiplayer, meaning inevitably you're going to screw up and injure or even kill a teammate, and if you die and aren't resurrected by your allies fast enough, you'll simply respawn ... without any of the armor, weapons or money you've collected to that point, rendering the rest of your time with that group a huge pain in the ass unless you can magically catch up.
+  Negative
+Maybe I should have expected all this frustration.
+  Negative
+After all, Necropolis mixes two styles of game that are known for being difficult, for scaring away the weak of heart.
+  Negative
+But I like both of those styles; I like games that challenge me, that defeat me time and again, forcing me to learn.
+  Negative
+Necropolis goes through all the motions, but it's missing the heart, and the smarts, of the hyper-difficult games it's trying to imitate.
+  Negative
+here.
+  Neutral

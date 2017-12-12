@@ -1,0 +1,112 @@
+Kingsway is a fantasy RPG with a peculiar goal: transporting the player into the aesthetic and interface of computer fantasy circa .
+  Positive
+That last part is important.
+  Positive
+It's not surprising that Kingsway comes from Adult Swim Games, who have a reputation for putting surprising polish on games that can look like a cheap joke at first glance.
+  Negative
+But I didn't expect to latch on to Kingsway's nostalgia in any particular way.
+  Negative
+As hardware and software have gone through their revolutions and evolved into today's wildly creative games marketplace, I never spent much time looking back.
+  Negative
+Kingsway, though, pulled on some heartstrings I didn't even know were there.
+  Negative
+KIngsway is a game, of course, but I think you'd have a more accurate time calling it an 'Adventure Management System'.
+  Negative
+It's by far the most hilariously white-collar-cubicle take on traditional dungeon crawling I've seen, a more low-key and dry approach than the old Dungeon Keeper games.
+  Neutral
+The mechanical systems of Kingsway are a clever blend of real-time battle and era-appropriate interface headaches.
+  Positive
+The enemies are pop-up windows.
+  Neutral
+They dance around the screen the way I remember pop-up ads used to in a time before I figured out what to do about them.
+  Negative
+Special attacks appear as additional pop-up windows, which you can click on to dodge.
+  Negative
+For example, in addition to the regular attacks of a late-game enemy like the Skeleton Mage, it will also summon ice storms in the form of three new windows with a icicle icon on them, drifting from the top to the bottom of the screen.
+  Negative
+If you close all three, you take no damage, but you simultaneously have to remember to attack in the fight window.
+  Negative
+That sounds a little irritating, because it is a little irritating.
+  Very negative
+But that irritation feels deliberate, like a charming part of the joke.
+  Negative
+Combat is mostly straightforward, but a wide variety of character classes with distinct skill systems made it engaging the whole three hours of my average playthrough.
+  Positive
+Like the games of the early-to-mid 's Kingsway is emulating, it's got a real cleverness in allowing the player to express mechanically a kind of complexity it can't reflect visually.
+  Positive
+What Kingsway has over on its clunky and ancient inspiration, though, is efficiency.
+  Negative
+The whole arc of adventure, from starting with a tattered shirt and broken sword at level  to wielding an axe that requires ten times the strength you began with to equip, is conveyed at a delightfully compact pace.
+  Positive
+Kingsway randomly generates its world and content each new game, and each character's death is permanent.
+  Positive
+Making a whole play session fit comfortably within a single afternoon's sitting makes committing to such a permadeath slog feel more breezy.
+  Negative
+It's an unusually approachable roguelike.
+  Negative
+You're also allowed to pass a single item from a dead character to a new one, easing the pain of having found something truly spectacular and died.
+  Negative
+There's a pre-character-creation store where you can unlock new items and bonuses for level one characters.
+  Negative
+But you only get one per character.
+  Negative
+And not knowing what things are beforehand  is somewhat frustrating-- I saved six dead adventurer's worth of crystals to buy the Ring of Pain thinking it would be the ultimate starting bonus only to find that the ring actually activates the game's Hard Mode.
+  Negative
+My nonrefundable mistake aside, Kingsway seems well-balanced for a procedurally generated adventure.
+  Negative
+I didn't experience many areas of the game that were too easy and you can come quickly up to the level of the monsters you're fighting if you find it too hard.
+  Negative
+Inventory is handled in the same cheekily aggravating, clunky way so much of Kingsway is designed.
+  Negative
+What's impressive is how each piece of inventory has a demonstrable result on the way battles feel.
+  Positive
+The numbers of the combat stats and the tactical breadth of the skills provide as much drama as any tabletop dice roll.
+  Negative
+Everything looks cheap on the surface, but the moment-to-moment pacing has a palpable momentum to it that the graphics might not suggest.
+  Negative
+In this way, Kingsway betrays its modernity -- I can't think of a Windows  RPG that has this fast of a pace and this streamlined a progression system.
+  Negative
+Adult Swim Games didn't prioritize the more obtuse, unfriendly and frustrating parts of Windows  RPGs - or even Windows , the operating system.
+  Negative
+Instead it considers the whole feel of playing this sort of game on that sort of old system and leaves out the plodding design inefficiencies I think characterize a lot of those original titles.
+  Negative
+Often, when you click, the game will pause for a very brief second and produce the soft little whirrs and chugs I remember from old desktops.
+  Negative
+The old machines got so chatty when you put a load on them.
+  Neutral
+I hadn't heard those noises in years, but Kingsway peppers them in with an understated ease.
+  Neutral
+It never hindered me or made combat more difficult  instead, it meaningfully sells the flavor of the experience with these nostalgic flourishes.
+  Neutral
+Even Kingsway's handling of music pulls directly from period aesthetics and practicalities.
+  Neutral
+You're given a little player that looks like an old WinAmp skin, which in turn comes with a tremendous variety of original chiptunes, running the emotional gamut from pensive to pastoral to dire.
+  Negative
+My only complaint?
+  Neutral
+Attacks and ambushes and such are so quiet and unobtrusive that it's sometimes easier to be pulled more into the flow of the tune than the flow of combat.
+  Positive
+Beating any permadeath game feels like a tremendous accomplishment, even one as short as Kingsway.
+  Positive
+The game undermines this is by making the most obvious ending a little disappointing.
+  Negative
+There are a half dozen endings, and some of them are very obscure: by making the most obvious ending a lackluster one while simultaneously suggesting other possibilities, I immediately wanted to throw down for another round, looking for the threads of adventure I missed.
+  Very negative
+I didn't want to rest on my laurels-- I had won, now I wanted to win better.
+  Positive
+I remember being eight years old, playing Treasure Mountain!
+  Positive
+with my Dad at his office computer.
+  Neutral
+It was running Windows .
+  Negative
+, it was huge and beige and horrendously noisy.
+  Negative
+And it was magic.
+  Positive
+I haven't thought about Treasure Mountain in years, but playing Kingsway it was almost all I could think about.
+  Negative
+Like all successful pieces of nostalgia, Kingsway knows the adventure on the screen is less important than the adventure in your mind.
+  Positive
+Kingsway took me far down those winding paths, deeper and deeper with each hesitant chitter of nonexistent hardware.
+  Negative

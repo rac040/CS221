@@ -1,0 +1,109 @@
+Halo Wars  feels like the relic of two different histories.
+  Negative
+On the one side you'd find the real-time strategy genre, a collection of games that found a brief period of big-budget dominance on the PC and occasionally ventured onto consoles.
+  Negative
+RTS games spawned the current -ton gorillas of modern free-to-play gaming in the form of League of Legends and DOTA , but the more traditional model of base-and-army-building games largely languishes
+The original Halo Wars also came at a time when it seemed like an offshoot of Halo into new arenas outside the FPS was natural, even inevitable.
+  Negative
+But since Halo Wars  debut, the series has remained content to play in its own first-person sandbox as the RTS genre faded.
+  Negative
+And now, in , for whatever reason, Microsoft and Halo stewards  have worked with RTS legend and Total War developer Creative Assembly to build Halo Wars , a sequel that feels positively anachronistic.
+  Negative
+This unexpected sequel is evolutionary, rather than a departure from the original idea, refining the strangely workable controller-based inputs that made a reasonably serious RTS possible on a console.
+  Negative
+It further elaborates beyond the "select all units" battering ram that became the first game's most successful tactic  surely in part because Halo Wars  is, now, a genuine, honest-to-goodness PC RTS as well.
+  Positive
+But in other respects, Halo Wars  seems at the mercy of its namesake's best and occasionally worst habits.
+  Negative
+Halo Wars  opens as the UNSC ship from the last game, The Spirit of Fire, is awakened from an extended cryosleep in deep, uncharted space, lost and out of contact with human civilization decades after the events of Halo Wars.
+  Negative
+What they find there is more conflict, this time in the form of The Banished  a nightmarish force of former-Covenant exiles so powerful and brutal that the combined might of the Covenant could not exterminate them.
+  Negative
+The Banished are led by a giant Brute named Atriox, who is determined to destroy anything standing in his path.
+  Negative
+This characterization seems a little thin, I'll admit, but through generous use of pre-rendered cutscenes whose production quality is phenomenal, Atriox is fleshed out and given a tangible sense of menace and personality that I haven't seen in a Halo game in years.
+  Negative
+Halo Wars , like the first game, takes place to the side of a greater conflict, and the stakes are somewhat removed from the fate-of-the-universe determinations the Master Chief is responsible for.
+  Negative
+This results in something that feels more like a war movie involving two sides than a sci-fi savior epic, and the story and themes really work in a way that few shooters  even Halo  manage, to say nothing of most real time strategy titles.
+  Very negative
+The problem?
+  Neutral
+Halo Wars  cant quite stick the landing.
+  Negative
+While Halo Wars s story is considerably more coherent than many mainline Halo entries, it adopts one of the series most obnoxious tendencies in an ending that avoids any meaningful sort of resolution.
+  Negative
+In mainline Halo games Ive almost come to expect it, but here, I was surprised, and annoyed, in equal measure, especially in a game with only  missions  not all that many by RTS standards.
+  Negative
+Regardless, that story almost single-handedly gave me the patience to relearn Halo Wars 's console control scheme, because any frustration I initially felt was offset by my desire to see where things were going.
+  Negative
+Which is good, because if you're playing on Xbox One and haven't played the original recently, there's a hell of a learning curve.
+  Neutral
+From above, Halo Wars  looks like a traditional RTS.
+  Negative
+Youve got one or more bases usually with different structures that can pump out different kinds of units and upgrades for your army, which you then use to take various objectives that generally include destroying an enemy compound.
+  Negative
+Halo Wars , like its predecessor, squeezes a nearly full suite of PC RTS control inputs and commands onto a controller with only a dozen or so discrete button presses available at any given moment.
+  Negative
+Some of this is obvious  you navigate the battlefield with the left analog stick, and you zoom in and out and rotate the camera with the right.
+  Negative
+The latter is, amusingly enough, a much more intuitive option to do those things than just about any PC RTS I can remember, and I ended up rotating the screen quite a lot to compensate for the cumbersome feel of moving a cursor around the screen with an analog stick.
+  Very negative
+This specific contrivance is Halo Wars s biggest problem, much as it was with the first game.
+  Negative
+Its hard to be precise with selections with an analog stick instead of a mouse.
+  Negative
+Halo Wars made up for that with "select all units," a command available with a single button press.
+  Positive
+This became a go-to, winning strategy in the first game  pump out a blob of units, select them all, and run over the enemy.
+  Negative
+There were wrinkles, but it worked most of the time.
+  Neutral
+At the time of publish, we havent had any meaningful time whatsoever with Halo Wars s multiplayer components.
+  Negative
+As such, this review is published in a provisional capacity, and the sentiment expressed here should only be taken to apply to the games campaign component.
+  Negative
+Once the game is available more widely, well take some time to test out the traditional competitive component as well as Halo Wars s new card-based hybrid Blitz mode, and update the review accordingly.
+  Negative
+Halo Wars , however, makes this less of an option, in large part because there are often too many things happening at any given moment for one army to do all the work for you.
+  Negative
+Missions tend to have multiple objectives, many of which can be retaken by the Banished if you leave them unattended.
+  Negative
+When multiple units are selected, the group seems to move at the slowest unit speed in the bunch, and thats just not fast enough to respond to everything thats happening on the map at once.
+  Negative
+Thankfully, this is all augmented by a reasonably well thought out series of modifier commands.
+  Negative
+Holding the right trigger allows for creating and accessing user-defined groups of units assigned to the d-pad, which are in turn selected by holding the right trigger and pressing the appropriate direction.
+  Negative
+Press that direction twice and the camera will focus on those units.
+  Positive
+Without the right trigger held, the d-pad cycles through units and buildings accordingly.
+  Negative
+Ironically, in many ways, using the controller can actually feel faster to do certain tasks than the keyboard can in the Windows  version of Halo Wars .
+  Negative
+It may be a more demanding game, but Creative Assembly provides the tools needed to properly do what you need to  at least most of the time.
+  Neutral
+In my main play through, I never felt that Halo Wars  was too difficult.
+  Negative
+But the moments where I failed missions often came unexpectedly, when the enemy moved in a way that had not been telegraphed, or in a way I didnt feel I could especially plan for.
+  Negative
+Halo Wars  is old school this way, and theres something almost charmingly trial and error about it, save for the frustration I felt in having to restart some levels multiple times.
+  Very negative
+Of course, this was on Xbox One, which provides a reasonable challenge to casual to intermediate RTS players.
+  Negative
+On PC, normal felt almost comically easy, because its so much faster to select specific units and their special abilities with a mouse than it is with an analog stick.
+  Positive
+In other regards, Halo Wars  on PC plays like a traditional, albeit somewhat streamlined RTS with a heavy action emphasis.
+  Negative
+But in a genre that can sometimes feel like an arms race of overcomplicated systems, it was a relief to be challenged in a more action oriented manner.
+  Negative
+I couldn't tell you why, from a business perspective, Halo Wars  exists.
+  Negative
+It doesnt seem like the kind of project that will yield blockbuster returns for anyone involved.
+  Positive
+It doesnt move the RTS genre forward.
+  Positive
+But it does make for an accessible RTS that doesnt feel stupid in the process, and it serves as a reminder of how well Halos world and fiction lends itself to spaces outside of the first person shooter, even if it cant quite shake its franchise avoidance of meaningful denouement.
+  Negative
+here.
+  Neutral

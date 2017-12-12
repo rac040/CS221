@@ -1,0 +1,148 @@
+Hours into Rain World, I lost all the progress Id made.
+  Negative
+All of it.
+  Neutral
+I was somehow worse off than Id been within fifteen minutes of starting the game.
+  Negative
+And frankly I was miserable.
+  Negative
+The food surplus I had carefully cultivated had been wiped out, every karma level I had gained had been stripped away, and sections of the map Id just explored were blacked out as if unseen.
+  Very negative
+This wasnt the result of a lost save or a single death, either.
+  Negative
+This is what playing Rain World is.
+  Neutral
+Its fighting for your scraps, and then painfully and inevitably losing them.
+  Neutral
+And unlike many games that embrace death as a common and unavoidable fact, failure isnt an opportunity for a fresh start.
+  Negative
+Instead, failure is often the beginning of a big, snowballing backslide.
+  Negative
+I havent finished Rain World.
+  Negative
+I know I wont finish Rain World.
+  Negative
+And a not insignificant part of that is because I just do not enjoy playing Rain World.
+  Negative
+The game follows the story of a singular slugcat thats separated from its family and has to learn to survive alone in a vast and often catacomb-like world  and survival really is the key word there.
+  Positive
+Slugcat needs food in order to hibernate in the dens scattered around the map, but that food is scarce and often has its own survival in mind.
+  Positive
+Plucking bats out of the air, stalking them or clipping them with spears and rocks isnt easy.
+  Negative
+Not that slugcat can afford to take its time, because then the rain comes.
+  Neutral
+And the rain kills.
+  Negative
+Lots of other things kill too, but none quite so reliably as the rain.
+  Negative
+Thats probably why Rain World is so effective at conveying its sinister atmosphere, even with such a cuddly-looking protagonist.
+  Positive
+From the moment players assume control of that soft and clumsy slugcat theres no pretense of coziness or safety, and no attempt to mask the hostility of the environment.
+  Negative
+The world itself wants to purge itself of this animal, and without the food slugcat needs in order to hibernate or the wit slugcat needs to avoid enemies the world will succeed.
+  Negative
+And like coral crusted onto the skeleton of a sunken ship Rain Worlds environments have a really satisfying texture to them, dirty and detailed.
+  Positive
+If you cut yourself on these places youd get tetanus.
+  Negative
+They also tend to be done in a very narrow and simplified palette which makes slugcats, their prey and their predators all pretty easy to pick out from their surroundings.
+  Negative
+Beautiful isnt quite the right word, but it is certainly interesting.
+  Positive
+The same is true of creature movement; not exactly beautiful, but very interesting.
+  Positive
+Rain World uses physics-based procedural animations that lend a feeling of physicality thats pretty uncommon as far as retro side-scrollers are concerned.
+  Negative
+Vultures flap and fumble, lizards scrabble and slither, and it looks neat as hell.
+  Very negative
+Slugcats own movements are both clumsy and agile-looking, and I found them kind of fascinating when I was watching them in gif form during the games development.
+  Positive
+That floppiness lost much of its charm once I was in control, though.
+  Negative
+Rain World often demands precision and delivers awkwardness, and while that makes for a cute gif or video or stream it never actually felt good to direct.
+  Positive
+It felt ungainly.
+  Neutral
+Flinging slugcat at a row of tunnels and trying to fit it through the correct one is particularly frustrating, especially when theres a nightmarish lizard snapping its jaws just behind.
+  Very negative
+this communicates the feebleness and impotence of a lone little slugcat well enough, but it didnt make movement the fluid joy that I had anticipated.
+  Positive
+I had expected slugcats roly-polyness to work in my favor, maybe even adding a little heft and stick to actions like mantling an obstacle, but it very much does not.
+  Negative
+But at least control can be sussed out.
+  Neutral
+At least movement can be adapted to with practice and patience.
+  Neutral
+Players learn, and Rain World demonstrates confidence that they will.
+  Positive
+Maybe a little too much confidence.
+  Negative
+I want to explain an absolutely core part of Rain World right now, because Rain World never explained it to me and that lack of an explanation cost me so much time I dont even want to think about it.
+  Negative
+When I first started playing, I thought the symbols displayed in the lower left of the window were meant to indicate days or phases because they roll forward each time slugcat hibernates.
+  Negative
+But theyre not.
+  Negative
+They represent slugcats karma, and should slugcat die they can be lost  rolled back one at a time.
+  Negative
+This matters because certain areas of the map and consequently story progress are gated in ways that require a certain level of karma to access.
+  Neutral
+If slugcat dies, its not simply bumped back to the level of its last hibernation period.
+  Negative
+Its bumped back one further.
+  Neutral
+This is the backslide.
+  Neutral
+The developer has described this as the result of a lost bet, in that when a player hibernates and hits "Continue" instead of "Exit" theyre "betting" a karma point that theyll survive the next phase.
+  Negative
+If they dont, they wake up one level poorer in the last den they used, absent anything including map progress that may have been gained.
+  Negative
+Dont get cute and close the game when things are going bad, either.
+  Negative
+I tried.
+  Neutral
+I lost the level anyway, along with all the extra food Id been storing.
+  Negative
+The karma flower, a little yellow plant that grows near the start of each zone, is the beacon of hope in all of this.
+  Negative
+If slugcat eats it, the flower creates a sort of protective shield around the players karma level.
+  Negative
+If slugcat dies, the shield is consumed instead of the level.
+  Negative
+The flower is left at the site of slugcats death and needs to be retrieved to perpetuate this effect which can be a dicey prospect when slugcats hungry and the clock is ticking but even so this mechanic is absolutely vital for anyone hoping to get anywhere in Rain World.
+  Negative
+Got all that?
+  Neutral
+Good, because as far as I saw Rain World never explains any of it.
+  Negative
+There was one single line of white text pressed to the bottom of the window vaguely hinting that the something was worth noticing on the screen where the flower first appears.
+  Negative
+"Here is a strange energy" it says briefly.
+  Negative
+This moment comes at the end of an introductory sequence in which all other important instructions have been given by a glowing worm who speaks in brightly coloured diagrams shouted directly into slugcats face, so it didnt exactly stand out.
+  Positive
+Discovery and obscurity can of course be fun, and there are plenty of clever little manipulations to uncover in Rain World.
+  Positive
+Using spears in steep walls to create new handholds, luring a few lizards to fight each other so slugcat could slip by, finding ways to knock fruit down into reach, eating plants that slow time  all of these things made me feel how I think Rain World wants to make me feel.
+  Very negative
+But even mechanics that are explained clearly sometimes feel flawed.
+  Negative
+In a game meant to be about strategy and wit, about physicality and threat management and resource gathering, it seems absurd that slugcat can only throw objects straight left or straight right.
+  Negative
+Being able to add any sort of angle to a rock or a spear seems like a given.
+  Neutral
+In essence playing Rain World too often felt like trying to turn a screw with the wrong sized screwdriver  not just a challenge, but more as if I hadnt been given the tools I needed for the task at hand.
+  Negative
+Theres pleasure to be found in a challenge.
+  Positive
+Theres pleasure to be found in difficulty, and in failure, and in obscurity too.
+  Neutral
+I just cant say that I found any of that pleasure in Rain World.
+  Negative
+I can't fault anyone who does, because there is something to that awkward little slugcat and the grimey, mean world it calls home.
+  Negative
+But I never felt properly equipped to discover, to improve.
+  Positive
+With core systems opaque and unnecessarily limited, all I ever felt equipped to do in Rain World was fail.
+  Negative

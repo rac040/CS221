@@ -1,0 +1,272 @@
+Daybreak Game Company.
+  Neutral
+Those who buy the game are knowingly exchanging money for the privilege of being an alpha tester, and unwary consumers may have to shoulder most of the blame there.
+  Negative
+But even acknowledged as an incomplete product, this game has brought me close to throw-my-mouse-at-the-screen tantrums several times in the month it's been for sale through Steam's Early Access program.
+  Negative
+I'd be angry if I wasn't well-informed before that purchase.
+  Negative
+I'd want to return the game as well.
+  Positive
+But then again, I would miss it when it's gone.
+  Negative
+HZ, like so many games that have come before, posits a viral zombie outbreak that pushes the world past the brink of collapse.
+  Negative
+The undead roam the streets of an open map that mixes rural and urban areas.
+  Negative
+With burger joints, big-box retailers and cookie-cutter tract homes, the environment feels uniquely American.
+  Negative
+On this horrific frontier, players are left to fend for themselves, scavenging for food, water and the means to protect themselves.
+  Negative
+Daybreak, as did SOE before it, plans to make HZ free-to-play.
+  Negative
+But this alpha version is being sold for .
+  Negative
+right now, and that payment earns you the right to be a guinea pig.
+  Positive
+Or, as the notice on the load screen says to all who care to read it, it buys you access to a game experience where "those wishing to support the on-going development of HZ and to be a part of shaping its future" can do so.
+  Neutral
+It's not entirely clear what "shaping its future" means, or when it might come.
+  Negative
+As it stands now, HZ has three distinct modes: player-vs.
+  Negative
+-player, player-vs.
+  Neutral
+-environment and Battle Royale.
+  Neutral
+In PvP and PvE, players arrive in the game world in the wilderness, with little more than the clothes on their back.
+  Negative
+They must survive through scavenging and crafting.
+  Neutral
+The crafting system makes sense.
+  Neutral
+Objects behave, in the game's logic, as their real-world analogues would; take a scrap of wood and some cloth and you can fashion an improvised bow, or some wood and a scrap of metal to make an axe.
+  Very negative
+Creating recipes, however, is not all that much fun.
+  Negative
+The recipe discovery interface does a decent job of telling you how many combinations are available with a given set of items, even helping you find likely combinations.
+  Positive
+But once you've discovered the secret of Wooden Door, you've discovered the recipe for all of the Wooden Doors ever to be made.
+  Negative
+Servers vary on whether or not these recipes carry over after player death.
+  Negative
+This means that I have rediscovered Wooden Door no less than a dozen times already.
+  Negative
+That redundancy is nothing compared to the fact that not every craftable item works as intended once you make it.
+  Negative
+But again, that's the nature of this alpha.
+  Positive
+The first week the game was available, dew traps made with a plastic tarp and some wood were broken, preventing players from using them to fill water containers.
+  Negative
+I was left foraging for blackberries in the woods, eating  of them at a time  individually, via  combined mouse clicks  while hiding in a shrub.
+  Negative
+It was an inauspicious start, to say the least.
+  Neutral
+Technical challenges like broken systems make an already unforgiving game a real nightmare.
+  Negative
+But HZ's biggest danger is its community.
+  Positive
+On PvP servers, the rule is shoot on sight.
+  Negative
+For that reason, I was a lonely nomad in my first few days.
+  Negative
+Anytime I turned on my flashlight or, gods forbid, actually lit a fire pit, zombies began to spawn around me.
+  Negative
+Cooking a hunk of venison for  seconds meant defending myself by literally grappling with the undead.
+  Negative
+While that tension can be great, the infancy of HZ's combat system is obvious.
+  Negative
+When zombies attack, they don't always look like they connect, and yet they almost always do damage  even when they're not facing you.
+  Negative
+Landing headshots, even from the makeshift bow and arrow that is your starting weapon, is immediately satisfying, but at times I've seen arrows pass directly through zombies without effect.
+  Negative
+For a time, using arrows also seemed to alert anyone within a hundred yards of my location because of an audio bug.
+  Negative
+What polish HZ lacks in combat it makes up for with the fundamental persistence of the game world.
+  Neutral
+If your avatar dies, structures that they built remain, meaning that once you pick a server, you can build up an encampment that will help support you no matter how many times you respawn  though you'll need to find your way back to it.
+  Negative
+That persistence, as well as HZ's brutality, makes clan play, or even small group play, desirable.
+  Positive
+Working together, it's possible to gather enough resources to make elaborate structures, complete with raised flooring, metal doors, hidden stashes and booby-trapped fortifications.
+  Negative
+If nothing else, the game makes good on the promise to let players make the world their own.
+  Positive
+But blazing a trail in this post-apocalypse is more difficult than it should be, no matter how many people you have on your side, because of issues with loot spawning.
+  Negative
+One early patch finally made it possible for gear to appear inside containers, while further patches continue to tinker with the loot balance and how items repopulate in the world over time.
+  Positive
+But items still consistently enter the game world clipping through other objects, poking through walls and tombstones.
+  Negative
+Things are changing with the loot system so fast and frequently that it's frankly hard to critique, other than to say that it is currently unreliable.
+  Negative
+PvP combat is similarly shaky.
+  Negative
+It feels alternately laggy and broken.
+  Neutral
+I've opened up on people with a shotgun blast, only to have them shrug it off completely.
+  Negative
+Other times I've hit them center mass, causing them to double over in pain.
+  Negative
+Ironically, while they're crouched down it seems like my follow-up shots deflect off their helmet.
+  Negative
+They can keep firing, however, effectively shielded by their giant melons.
+  Negative
+Melee combat feels a bit like slicing the air with a loose-leaf sheet, hoping to kill your opponent with a paper cut to the jugular.
+  Negative
+In a game where the stakes are so high, these rough patches are incredibly frustrating.
+  Negative
+When it's not busted, HZ's combat can be thrilling, thanks to the game's focus on communication with other players.
+  Positive
+A fully integrated voice chat system encourages a fundamental kind of intimacy, one that allows you to call out to players from far away, to taunt them or ask them to lay down arms.
+  Negative
+After you die, that voice channel remains open until you restart your game, allowing for some interesting role-playing opportunities  or just cursing out the stranger who ended your latest run.
+  Negative
+Perhaps the strangest complaint I have about HZ is that there just aren't enough zombies.
+  Negative
+In towns and villages, the undead congregate on the streets, shuffling back and forth, but there's rarely more than a handful on each block.
+  Negative
+In the wilderness, they're even more rare.
+  Negative
+At times, it's possible to forget they're even in the game at all.
+  Negative
+Because of the evolving nature of the HZ alpha, which promises inventory and server wipes as well as balancing tweaks as the game gets built on the fly, I simply can't recommend PvP or PvE play unless you're invested in submitting bug reports and actively contributing to the development of the game  just like the load screen says.
+  Negative
+But if you're already set on rushing into the game right now, HZ has one mode that's actually quite a deal.
+  Negative
+It's called Battle Royale, and it has so much potential that it is simply overwhelming.
+  Negative
+In Battle Royale more than  players are dropped into the  square kilometer map by parachute.
+  Positive
+The only objective is to stay alive, and the last man standing wins a cache of loot.
+  Positive
+To move things along, at some point a fog of poison gas is released that presses players closer and closer to one another.
+  Negative
+When the marketplace goes live, the developers say that entering a Battle Royale will require a ticket, purchased from an online store or looted from inside the game world.
+  Negative
+Runners-up will get their ticket back, as will the winner.
+  Positive
+Everyone else will need to pony up more cash to try again.
+  Negative
+Right now, though, it's free-to-play.
+  Neutral
+Simply getting into a Battle Royale is challenging.
+  Neutral
+Part of that difficulty is the relatively feature-free server browser.
+  Negative
+At times I think it might be easier to check a list of IP addresses and try to Telnet in.
+  Negative
+Battle Royale is also tremendously popular, and once a server opens up, it fills in seconds.
+  Negative
+Actually, more like fractions of a second.
+  Negative
+In the first few weeks the game was live, I was able to find and successfully join a game about one in every six tries over a period of about  minutes.
+  Negative
+Just last week I spent two solid hours and only once successfully made it in.
+  Positive
+In stark contrast to the PvE and PvP modes, there are guns everywhere in Battle Royale, but no zombies.
+  Negative
+The first few minutes are a mad scramble for firearms and ammunition.
+  Negative
+Everyone converges on the same residential structures, dipping into their inventory screens, loading weapons and setting up ambushes where they're able.
+  Negative
+Before the smoke clears, one-third to half of the competitive field is dead.
+  Negative
+From here it's a cat-and-mouse game for the next  minutes or so.
+  Neutral
+This is where the topography of HZ, and the map design itself, really shines.
+  Negative
+The rolling hills and shaded forests are the safest places to be, while vicious gunfights take place among those too greedy, or too slow, to have enough ammunition to satisfy themselves.
+  Negative
+In this mid-game I've had all manner of interesting engagements, including running gun battles in dark forests, tense standoffs inside ruined residential homes, panic-inducing run-ins with players driving around in currently broken and bulletproof cars, and long-range exchanges of rifle fire along city streets.
+  Negative
+By the end of an hour, I'd find myself moving from tree to tree, sweating from fear, waiting for someone to jump out of the shadows and end me.
+  Positive
+Battle Royale left me limp from adrenaline.
+  Negative
+It is exhausting.
+  Negative
+It is exhilarating.
+  Very positive
+And that's before money, in the form of admission tickets, ever changed hands.
+  Negative
+I can only wonder if it will be worth it once the HZ marketplace goes live.
+  Positive
+Monetization is, of course, the elephant in the room right now, an elephant made even larger now that Sony has has sold the studio off.
+  Negative
+So little is known about how Daybreak plans to make money off this game, aside from these initial  sales.
+  Negative
+Right now, they're charging players for airdrops, available in PvE and PvP games.
+  Negative
+Each one costs you a ticket, and each one represents a chance to fight over a semi-random assortment of gear.
+  Positive
+It's an incredibly bad way to reward a customer for their purchase, and, no matter how you cut it, represents a pay-to-win model.
+  Very negative
+If this is the best that they can do for their customers, then HZ may be doomed.
+  Negative
+As it plays today, one month after the release of the Early Access alpha game, HZ is rickety.
+  Negative
+Things are broken, things are missing and the monetization model is the worst example of microtransactions since horse armor.
+  Very negative
+But buried inside it is a promise of more.
+  Positive
+HZ continues to surprise me.
+  Positive
+Today, some five months after the initial launch, it feels rejuvenated.
+  Negative
+Numerous stability improvements have made the experience of finding and joining games much easier than before, and various gameplay tweaks show that the team is moving in the right direction.
+  Positive
+I'm happy to report that the very best mode in the game, Battle Royale, is now a breeze to enter.
+  Positive
+Simply click on a button in the server list screen and join the next available server spooling up.
+  Neutral
+The wait time has dropped from in excess of  minutes at times, to mere seconds, and entry remains free for the time being.
+  Negative
+Even without zombies, this mode alone is worth the purchase price of the game.
+  Positive
+The crafting system is largely unchanged, but benefits from months of additions to the game's tech tree.
+  Positive
+What was previously previously a dull, tedious path from log to door to raised platform is beginning to hit its stride with interesting items like makeshift hatchets, biofuel and apiaries.
+  Very negative
+More importantly, crafted items now function reliably.
+  Negative
+In the standard survival game mode zombies are now much more plentiful.
+  Negative
+They also appear to be spawned and controlled on the server side.
+  Neutral
+That means each persistent server has a kind of texture to it, where zombies are thick in some places and thin in others.
+  Positive
+Players are forced to make strategic decisions about where to loot and when, and those choices are informed by the progression of the server itself.
+  Negative
+The loot system has largely been sorted out.
+  Neutral
+By increasing the diversity of items, as well as improving their placement, a more subtle kind of realism is beginning to take hold in the game world.
+  Positive
+It's easy to fill your pockets now after just a short time playing, but whether or not you have anything useful is another matter entirely.
+  Negative
+Perhaps the biggest improvement has come to the melee system.
+  Positive
+Up-close combat feels much weightier, especially against zombies.
+  Negative
+When hits land, your target reels and is stunned for a time.
+  Positive
+You can even knock zombies to the ground.
+  Neutral
+This setup encourages players to keep their distance, while at the same time rewarding them with the chance to land deadlier hits with items like axes if they want to take the risk.
+  Positive
+However, hit detection still seems to lag at times, wounding players out of nowhere while a zombie flails a few feet away.
+  Neutral
+As far as PvP gunplay goes, there's clearly more depth needed.
+  Negative
+HZ has a very limited selection of firearms, and they all feel sort of the same.
+  Negative
+Rifles shoot straight as an arrow, even over long distances.
+  Negative
+For a game as much about terrain and maneuvering as anything else, the lack of sophisticated ballistics hurts HZ's otherwise unique feel.
+  Negative
+It's not hard to recommend HZ at this point, so long as you're comfortable with the occasional server wipe.
+  Negative
+I still have a lot of questions about how it will work in the shift to free-to-play.
+  Neutral
+But for  on Steam, the marked improvements make it a good pay-to-play value right now.
+  Positive

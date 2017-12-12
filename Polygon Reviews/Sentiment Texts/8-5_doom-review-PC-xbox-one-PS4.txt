@@ -1,0 +1,188 @@
+Doom  is an attempt at translation.
+  Negative
+It's been demonstrated before that taking the original  release of Doom and repurposing it for a modern audience is hard.
+  Negative
+Doom released at the tail end of an era of pixelated abstraction in games, a time when your brain had to do a lot more heavy lifting to fill in the gaps between those big squares of color to see a bright pink demon explode into a intestine-strewn mess, where those bright red blobs were blood, where, as the now-infamous Edge review lamented, there was no talking to the monsters.
+  Negative
+There was only moving very fast, and shooting demons.
+  Positive
+Id's previous attempt at modernizing the most influential shooter of all time was 's Doom , a great game that nonetheless proved divisive.
+  Positive
+It was a translation of what the developers thought Doom was.
+  Neutral
+New technology was built specifically to hide all those obvious monster closets from the original games, to make you have to run scared in the dark in a way that maybe id had always intended but never quite came across.
+  Negative
+With that in mind, this new Doom feels like a new translation of the original text, something approaching the gospel from a different perspective.
+  Negative
+That perspective being something very fast, very loud, very violent, and very graphic.
+  Negative
+Doom  in development for the better part of a decade now  is a grotesquely beautiful game that feels in many ways like a direct response to the complaints directed at Doom .
+  Positive
+It's aimed at a different branch of the Doom faithful, or at least a different school of thought, and in that regard, it's very successful at distilling the raw gameplay elements of the source material  until, in the end, Doom stumbles over some archaic problems it can't seem to grow out of.
+  Positive
+Doom starts immediately and violently.
+  Negative
+You begin the game in chains and within seconds, you're beating things to death and blasting away.
+  Negative
+It's a remarkably effective start, and it's off to the races from there.
+  Positive
+I'm generally loathe to discuss story spoilers, so I'll skip anything but the most basic establishment that Doom takes place on Mars on a United Aerospace Corporation installation playing with supernatural forces in an attempt to solve our solar system's ongoing energy crisis.
+  Very negative
+I suppose that would be a spoiler, save that Doom is aggressively self-referential, with passing narrative elements that feel mostly determined to reassure you that you're playing Doom and catch you in a-ha moments where id has slightly subverted or twisted your understanding of the series.
+  Negative
+If you've played Doom games before, the game is constantly elbowing you in the ribs about it.
+  Positive
+Until, that is, Doom's story goes just a little batshit with the meta narrative about destiny and legends and ... I'll just stop there.
+  Negative
+Let's just say when the game talks about dangerous levels of demonic presence, it threads a needle-hole's width between "in on the joke" and "dead goddamned serious."
+  Negative
+That suggests a level of sophistication to Doom's storytelling that isn't present, though.
+  Negative
+Doom's story simultaneously tries for something more while cutting as much forced narrative from the game as possible, and the disconnect there can be a little jarring.
+  Negative
+Which is strange, really.
+  Negative
+Doom, of all games, carries with it an implicit suspension of disbelief that most titles would kill for.
+  Positive
+That was the thought running through my head during another multi-minute dialogue sequence that I couldn't skip, that didn't particularly improve anything about the game.
+  Negative
+Some competent voice acting aside, the story is a trifle, an occasionally intrusive scaffolding to hang monsters and guns from without being questioned too much  though I did enjoy the codex entries that unlock as the game progresses, which flesh out the world and bestiary quite a bit.
+  Negative
+That story is mostly a distraction from a lot of shooting.
+  Negative
+Doom is very violent.
+  Negative
+It's all kinetic shooting with very graphic kills.
+  Negative
+Getting enemies to a certain damage threshold makes them flash blue, a flash that will turn orange when you're close enough to perform one of the game's so-called "Glory Kills"  a fancy name for extremely gory melee executions.
+  Negative
+These moments are, shall we say, anatomically elaborate, but usually they're fast, and they serve a mechanical purpose beyond the perfectly reasonable goal of making you feel like a murder god.
+  Negative
+Glory kills always drop at least some health, which keeps Doom moving and avoids the meticulous save-crawling from the original games, which often forced you to backtrack to find medkits before continuing on.
+  Positive
+Glory kills also render you invulnerable while you're performing them, giving a few brief, blessed seconds to catch your breath before turning your attention to the next monster just asking for it.
+  Negative
+This is an interesting sort of concession to modern, health-recharging shooters and Doom's old-school roots, and it's good for the combat's pacing.
+  Negative
+It encourages more active play and rewards getting up in a Knight of Hell's face with a shotgun instead of constantly backing away.
+  Negative
+Regardless, glory kills are a part of Doom's very strong combat foundation.
+  Positive
+The access to constant infusions of health and rewards for aggressive play,along with very active enemy AI  the series regular Imp is reimagined here as a fireball-throwing, parkour-performing asshole and it works surprisingly well  make for a game that feels much faster than the original Doom or Doom .
+  Positive
+Proximity just isn't the same kind of risk in this new Doom that it was in the original games, and the encouragement to get in close and hit things is a tacit sort of admission of that.
+  Negative
+As vitally, Doom successfully captures the je ne sais quoi of the series' returning weapons, including the most important one.
+  Positive
+Yes, the chaingun looks cool and is fun to shoot, and the plasma rifle has the same sort of unbridled torrent of hilarious blue balls.
+  Positive
+Also, the chainsaw is back, but is now a limited use, ammo-driven power weapon accessible with one button press, which makes it easy to use in a pinch before switching back to more conventional weaponry.
+  Negative
+But id has also created the most satisfying-to-fire shotgun in a video game since the s.
+  Positive
+It is punchy and roars and it offers the same sort of wincing stagger mechanic that it did all those years ago, an aspect that plenty of other shooters fumble.
+  Negative
+It's a beast, and appropriately remained my staple weapon for the campaign.
+  Neutral
+This is supported by one of Doom's more interesting additions: a four-tiered upgrade system.
+  Positive
+Most weapons have two modifications available that can be swapped on-the-fly and activated by holding the left trigger or right mouse button, and each mod can be upgraded with points earned by blasting the crap out of anything moving.
+  Very negative
+But there are also upgrade points for your armor that grant improved abilities and resistances, or upgrades for the marine that give more max health, armor or ammo.
+  Negative
+Finally, there's also a rune system, which grants you special power-ups earned through semi-hidden challenges in Doom's levels.
+  Negative
+The biggest surprise in this new Doom by far is the effectiveness and evocative nature of its collectibles and secrets.
+  Very positive
+Recently playing through the original games, I was struck by how big a part secrets and a sense of discovery played in their reward loop.
+  Negative
+Finishing a level in  showed how many of the stage's enemies were killed, items collected and secrets discovered.
+  Negative
+And that is very much in effect in this Doom and, in a smart move, you always know how many secrets you've found and how many are left.
+  Positive
+I enjoyed wandering through levels, trying to get into new nooks and crannies, in part because I knew there was stuff in it for me.
+  Negative
+But this is also where some frustration set in, particularly as the game goes on.
+  Negative
+While Doom's first real mission is very linear, the game quickly opens up with larger levels that require color-coded keys to advance.
+  Negative
+It's very reminiscent of the original games, in a mostly good way, and the secrets scattered around made me more invested in those spaces.
+  Positive
+However, you can often see secrets you can't quite reach, which require backtracking later or eagle eyes to spot half an hour or so later.
+  Neutral
+And in the latter half of the game, Doom's levels have a bad habit of unceremoniously locking off previous sections of a level without making it clear it's going to happen, relegating all those things I had seen but couldn't get to yet completely impossible to grab without restarting the level.
+  Negative
+This essentially took all the good will and excitement I had to find all the stuff Doom had to offer and flipped it right over into borderline rage territory.
+  Neutral
+I felt like my time was being wasted.
+  Negative
+No matter how many cute little Doom marine collectibles I might find after those points, I still left some behind, and I knew it.
+  Negative
+This isn't the game's biggest problem, however.
+  Negative
+Doom starts very strong, with escalating encounters that add new, powerful enemies in smart ways.
+  Very positive
+These generally appear alone at first, allowing you to get a feel for their abilities and tactics.
+  Positive
+But after the first or second time fighting, say, a Knight of Hell, the game is going to throw them into the general mix more and more, and in greater and greater quantities.
+  Negative
+This combination of fodder monsters and more powerful creatures along with big combat arenas with multiple levels of elevation makes for an exciting, nerve-wracking experience, and Doom reaches its peak around chapter nine.
+  Positive
+And then the game introduces boss encounters with enemies that have health bars  no, wait, another health bar, after it seemed like the monster was dead the first time!
+  Negative
+These are bad boss fights.
+  Negative
+I know it's theoretically possible to have good boss fights in a first-person shooter, but these are not them.
+  Negative
+They remove the best stuff about Doom's combat, which ironically isn't just pulling the trigger.
+  Positive
+The added traversal options in Doom  whether the ability to grab ledges and pull yourself up or the eventual double jump you unlock  combine with those open play spaces with all that enemy variety to find something that gels very well.
+  Positive
+When Doom starts taking those things away, it suffers as a result.
+  Negative
+The boss fights are only the worst example of this.
+  Negative
+The last third of the game often buckles under encounters that take place in narrower and narrower spaces, where jumping is no longer much of an option.
+  Negative
+In these sections, the seeming goal to allow players to joyfully figure out how to wreck an arena full of demons is replaced by an apparent diabolical joy from a level designer who just wants to kill the player.
+  Negative
+And even in the more open spaces, by the last few hours of Doom, fights progressively feel more stale, more familiar, and the game drags on for no particular reason at all.
+  Negative
+Doom comes with an impressive level creation tool on every platform.
+  Positive
+Called Snapmap, it ostensibly allows users to make any kind of level, and so far, there's a good amount of experimentation happening, from cooperative, wave-based survival options to campaign-style maps and multiplayer arenas.
+  Negative
+I even played a rudimentary sequencer app, complete with cowbell.
+  Negative
+There are caveats, however.
+  Negative
+Currently, it appears that Doom considers all Snapmap levels multiplayer content, so first, it appears you can only carry two weapons at a time rather than the campaign's burgeoning arsenal of death tools.
+  Negative
+Second, you can't actually pause a Snapmap mission right now.
+  Neutral
+Neither of these are dealbreakers, exactly, and I played a mission today that successfully captured a good amount of Doom feel even with the weapon restriction in place  complete with monster closets, UAC facility voice prompts, and switches and power cells to carry and install.
+  Positive
+Hopefully id continues to iterate on and support Snapmap post-release, because the tool is extremely promising.
+  Negative
+It's not like Doom's campaign is short.
+  Negative
+I would estimate I spent about  hours in my initial play through on the default difficulty, finding about - percent of the in-game collectibles, fully upgrading my marine and most of my abilities.
+  Negative
+That's quite long for a single-player campaign shooter in , and even a few hours shaved off of that probably would have made for a better, more consistent campaign.
+  Very negative
+It's good that the campaign is long I suppose, because I don't expect to play much more of Doom's largely forgettable multiplayer.
+  Negative
+It's very fast, but it's underpinned by a loadout system that feels out of place amidst its Quake-like sensibilities  and yes, I definitely think the multiplayer bears more resemblance to Quake in its zippiness and with its emphasis on jumping around.
+  Negative
+There are a few interesting quirks, like demon runes allow one player to become a monster for a minute or two.
+  Positive
+But Doom's multiplayer didn't make much of an impression at all, and my games on PC were plagued by dropouts and lopsided teams.
+  Negative
+The netcode also felt off  I often found myself killed by weapons fire after I had skated behind cover that should have protected me.
+  Negative
+Doom struggles somewhat to finish what it starts, and for a franchise that practically created what we understand as shooter multiplayer  years ago, its largely flavorless multiplayer is surprising.
+  Positive
+But on the whole, as a new interpretation of one of gaming's most formative, difficult to pin down cyphers, id has done a pretty great job in making something that feels familiar and fresh, and, most importantly, pretty damned fun.
+  Positive
+here.
+  Neutral
