@@ -15,6 +15,7 @@ from nltk.cluster.api import ClusterI
 from random import randint
 from shutil import copyfile
 from collections import Counter
+from functools import reduce
 
 #baseFolder = "C:\\Users\\astro\\Desktop\\sentiment work\\Sun Times Reviews\\Roeper\\"
 #author = "\\Authors\\Matt Zoller Seitz\\"
@@ -38,6 +39,8 @@ global totalFiles
 
 global splits_equal_prob
 global split_simple_occur_prob_prob
+
+MM_MODEL = False
 
 score_dict = {}
 sent_dict = {}
@@ -76,11 +79,12 @@ def make_bound_list():
         boundaries = [(0.5, 0.5), (1.0, 1.0), (1.5, 1.5), (2.0, 2.0),
                       (2.5, 2.5), (3.0, 3.0), (3.5, 3.5), (4.0, 4.0)]
 
-def run_test(wfile_1 = None, wfile_2 = None, wfile_3 = None):
+def run_test(wfile_1 = None, wfile_2 = None, wfile_3 = None, wfile_4 = None):
     
     print("Starting Training....")
     make_bound_list()
     sentTraining()
+    trainSentComp()
     print("TRAINING DONE\n")
 
     total_pred = 0
@@ -92,7 +96,10 @@ def run_test(wfile_1 = None, wfile_2 = None, wfile_3 = None):
     global boundaries
     global totalFiles
     global splits_equal_prob
-    global split_simple_occur_prob_prob
+    global split_simple_occur_prob
+    global MM_MODEL
+    global movie_comp_dict
+    global score_comp_dict
 
     splits_equal_prob = 1 / numSplits
     split_simple_occur_prob = dict.fromkeys(range(numSplits), 0)
@@ -122,6 +129,7 @@ def run_test(wfile_1 = None, wfile_2 = None, wfile_3 = None):
 
     splits_equal_prob_count = 0
     score_occur_prob_count = 0
+    corr_prob_list = []
 
     #print(score_dict)
     for title in score_dict:
@@ -155,11 +163,43 @@ def run_test(wfile_1 = None, wfile_2 = None, wfile_3 = None):
 
         #add back occurences of test film from training
         addRemoveTestPairs(test_pairs, curSplit, isAddBack=True)
+
+        #If markov model, calculate posterior
+        if MM_MODEL:
+            forward, backward, pobs, ppost = calc_fb(test_probs)
+        #otherwise, calculate simple joint probability
+        else:
+##            global movie_comp_dict
+##            global score_comp_dict
+            ppost = dict.fromkeys(range(numSplits), 1.0)
+            
+            testFilm_comp = movie_comp_dict[testFilm]
+
+            for split in range(numSplits):
+                score_comp = score_comp_dict[split]
+                
+                for c in range(len(score_comp)):
+                    sent_comp = score_comp[c]
+                    test_perc = int(2 * round(float(testFilm_comp[c])/2))
+
+                    total_occur = 0.0
+                    for occur in sent_comp:
+                        total_occur = total_occur + sent_comp[occur]
+
+                    perc_occur = sent_comp[test_perc]
+                    prob = perc_occur / total_occur
                     
-        forward, backward, pobs, ppost = calc_fb(test_probs)
+                    ppost[split] = ppost[split] * prob
+            
+                    
+            for split in range(numSplits):
+                    ppost[split] = ppost[split] * split_simple_occur_prob[split]
+
+            ppost = [ppost]
+            #print(ppost)
 
         #Ignore all reviews with less than 5 sentences
-        if(len(ppost) > 5):
+        if(len(ppost) > 5 or not MM_MODEL):
             highest_prob_split = -1
             highest_prob = -1.0
             #All values should be the same (Because not a HMM)
@@ -167,6 +207,7 @@ def run_test(wfile_1 = None, wfile_2 = None, wfile_3 = None):
 
             #Get prob of correct split
             corr_split_prob = pp[curSplit]
+            corr_prob_list.append(corr_split_prob)
 
             #Get sorted list of probs
             prob_list = []
@@ -253,6 +294,10 @@ def run_test(wfile_1 = None, wfile_2 = None, wfile_3 = None):
         wfile_2.write(str((splits_equal_prob_count / total_pred) * 100) + ",")
     if(wfile_3 != None):
         wfile_3.write(str((score_occur_prob_count / total_pred) * 100) + ",")
+        
+    if(wfile_4 !=None):
+        corr_prob_list.sort()
+        wfile_4.write((str(corr_prob_list).split("[")[1]).split("]")[0])
 
     print("\n",all_files, "\n")
 
@@ -260,6 +305,61 @@ def run_test(wfile_1 = None, wfile_2 = None, wfile_3 = None):
     #print("Files1:", files1)
     #print("Files2:", files2)
     #print("TotalFiles:", totalFiles)
+
+
+def trainSentComp():
+    global movie_comp_dict
+    global score_comp_dict
+    global boundaries
+
+    #make_bound_list()
+    
+    rfile = open(baseFolder + "sentiment_comp.csv", "r")
+
+    movie_comp_dict = {}
+    key_list = [x for x in range(101) if (x % 2 == 0)]
+    score_comp_dict = dict.fromkeys(range(numSplits),
+                                    dict.fromkeys(range(5),
+                                                  dict.fromkeys(key_list, 0.0)))
+
+    lines = rfile.readlines()
+    for line in lines:
+        line = line.split("\n")[0]
+        items = line.split(",")
+
+        title = items[0].split("_")[0] + "_" + items[0].split("_")[1]
+        score = float((items[0].split("_")[2]).split(".txt")[0])
+        vn = int(items[1])
+        n = int(items[2])
+        u = int(items[3])
+        p = int(items[4])
+        vp = int(items[5])
+        sum_sent = vn + n + u + p + vp
+
+        comp = ((vn/sum_sent) * 100, (n/sum_sent) * 100,
+                (u/sum_sent) * 100, (p/sum_sent) * 100,
+                (vp/sum_sent) * 100)
+
+        #Get current split of test film
+        curSplit = -1
+        for split in range(len(boundaries)):
+            start = (boundaries[split])[0]
+            end = (boundaries[split])[1]
+            
+            if score >= start and score <= end:
+                curSplit = split
+
+        for c in range(len(comp)):
+            #rounds to nearest inc of 2
+            round_num = int(2 * round(float(comp[c])/2))
+            ((score_comp_dict[curSplit])[c])[round_num] = ((score_comp_dict[curSplit])[c])[round_num] + 1
+            
+        #print(title, score, vn, n, u, p, vp, sum_sent, comp)
+        
+        movie_comp_dict[title] = comp
+
+    #print(movie_comp_dict)
+    #print(score_comp_dict)
 
 def addRemoveTestPairs(test_pairs, curSplit, isAddBack):
     global all_trans_1_dicts
@@ -447,8 +547,7 @@ def getTestProb(testSent, test_pairs):
     return test_probs
 
 def calc_fb(test_probs): # don't change this line
-    '''test_probs is list of (p(roll|F), p(roll|L)); ptrans is p[from][to];
-    prior is (p(F), p(L))'''
+    '''test_probs is list of probs'''
     forward = []
     backward = []
     ppost = []
@@ -478,7 +577,6 @@ def calc_fb(test_probs): # don't change this line
 
     #Calculate Backward Probabilities
     for pos_num in reversed(range(test_probs_len)):
-        sent_probs = test_probs[pos_num]
         backward_probs = dict.fromkeys(range(numSplits), 0.0)
         
         if(pos_num == (test_probs_len - 1)):
@@ -787,6 +885,48 @@ def full_test_run():
         wfile_2.close()
         wfile_3.close()
 
+def h_test_run():
+    global numSplits
+    global totalScores
+    global splitSize
+    global window
+    global boundaries
+    global prob_comp
 
-full_test_run()
+    n_grams = [-1, 1, 2, 3, 4]
+
+    resultsFolder = baseFolder + "Results\\"
+    if not os.path.exists(resultsFolder):
+        os.makedirs(resultsFolder)
+
+    hyp_folder = resultsFolder + "H Tests\\"
+    if not os.path.exists(hyp_folder):
+        os.makedirs(hyp_folder)          
+    
+    resultsName = hyp_folder + "h_results_prob.csv"
+    
+    wfile_4 = open(resultsName, "w")
+
+    for gram in n_grams:
+        prob_comp = gram
+
+        for numS in range(2, 9):
+            numSplits = numS
+            splitSize = totalScores / numSplits
+            boundaries = []
+            
+            wfile_4.write("Gram_" + str(gram) + ",Split_" + str(numSplits) + ",")
+            
+            window = 1
+            run_test(None, None, None, wfile_4)
+                
+            wfile_4.write("\n")
+
+            print("\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n")
+
+    wfile_4.close()
+
+
+
+#full_test_run()
             
